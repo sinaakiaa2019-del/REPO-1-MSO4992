@@ -1,0 +1,76 @@
+Shared dates: 6018
+Equal-budget evaluation 2007 5 groups
+Equal-budget evaluation 2008 5 groups
+Equal-budget evaluation 2009 5 groups
+Equal-budget evaluation 2010 5 groups
+Equal-budget evaluation 2011 5 groups
+Equal-budget evaluation 2012 5 groups
+Equal-budget evaluation 2013 5 groups
+Equal-budget evaluation 2014 5 groups
+Equal-budget evaluation 2015 5 groups
+Equal-budget evaluation 2016 5 groups
+Equal-budget evaluation 2017 5 groups
+Equal-budget evaluation 2018 5 groups
+Equal-budget evaluation 2019 5 groups
+Equal-budget evaluation 2020 5 groups
+Equal-budget evaluation 2021 5 groups
+Equal-budget evaluation 2022 5 groups
+Equal-budget evaluation 2023 5 groups
+Equal-budget evaluation 2024 5 groups
+REGIME-PI-60D TARGET COMPLETE loss10
+Equal-budget evaluation 2007 5 groups
+Equal-budget evaluation 2008 5 groups
+Equal-budget evaluation 2009 5 groups
+Equal-budget evaluation 2010 5 groups
+Equal-budget evaluation 2011 5 groups
+Equal-budget evaluation 2012 5 groups
+Equal-budget evaluation 2013 5 groups
+Equal-budget evaluation 2014 5 groups
+Equal-budget evaluation 2015 5 groups
+Equal-budget evaluation 2016 5 groups
+Equal-budget evaluation 2017 5 groups
+Equal-budget evaluation 2018 5 groups
+Equal-budget evaluation 2019 5 groups
+Equal-budget evaluation 2020 5 groups
+Equal-budget evaluation 2021 5 groups
+Equal-budget evaluation 2022 5 groups
+Equal-budget evaluation 2023 5 groups
+Equal-budget evaluation 2024 5 groups
+REGIME-PI-60D TARGET COMPLETE loss075
+Equal-budget evaluation 2007 5 groups
+Equal-budget evaluation 2008 5 groups
+Equal-budget evaluation 2009 5 groups
+Equal-budget evaluation 2010 5 groups
+Equal-budget evaluation 2011 5 groups
+Equal-budget evaluation 2012 5 groups
+Equal-budget evaluation 2013 5 groups
+Equal-budget evaluation 2014 5 groups
+Equal-budget evaluation 2015 5 groups
+Equal-budget evaluation 2016 5 groups
+Equal-budget evaluation 2017 5 groups
+Equal-budget evaluation 2018 5 groups
+Equal-budget evaluation 2019 5 groups
+Equal-budget evaluation 2020 5 groups
+Equal-budget evaluation 2021 5 groups
+Equal-budget evaluation 2022 5 groups
+Equal-budget evaluation 2023 5 groups
+Equal-budget evaluation 2024 5 groups
+REGIME-PI-60D TARGET COMPLETE loss05
+ target                  model  budget    n  positives  prevalence    auroc  average_precision  false_positive_days  true_positive_days  false_negative_days  false_positive_rate   recall  precision  time_under_warning  alarm_episodes  false_alarm_episodes  within_year_auroc  within_year_ap  years_with_both_classes
+ loss10               combined    0.05 4470        653    0.146085 0.638657           0.297515                  436                 206                  447             0.114226 0.315467   0.320872            0.143624              69                    52           0.463731        0.372963                       11
+ loss10 combined_pi_xgb_regime    0.05 4470        653    0.146085 0.316915           0.103042                 1043                 106                  547             0.273251 0.162328   0.092254            0.257047             118                   108           0.516314        0.435928                       11
+ loss10                 market    0.05 4470        653    0.146085 0.646918           0.297618                  534                 240                  413             0.139900 0.367534   0.310078            0.173154              48                    32           0.434979        0.356842                       11
+ loss10        topology_pi_xgb    0.05 4470        653    0.146085 0.624708           0.209215                  263                 121                  532             0.068902 0.185299   0.315104            0.085906              97                    78           0.584078        0.425173                       11
+ loss10 topology_pi_xgb_regime    0.05 4470        653    0.146085 0.255060           0.096150                  893                  33                  620             0.233953 0.050536   0.035637            0.207159             103                    96           0.517454        0.448266                       11
+loss075               combined    0.05 4470        943    0.210962 0.613545           0.343601                  464                 256                  687             0.131557 0.271474   0.355556            0.161074              66                    47           0.447689        0.417077                       15
+loss075 combined_pi_xgb_regime    0.05 4470        943    0.210962 0.342528           0.154620                  860                 123                  820             0.243833 0.130435   0.125127            0.219911              96                    75           0.488746        0.467912                       15
+loss075                 market    0.05 4470        943    0.210962 0.621690           0.350998                  474                 306                  637             0.134392 0.324496   0.392308            0.174497              46                    28           0.431810        0.412292                       15
+loss075        topology_pi_xgb    0.05 4470        943    0.210962 0.550877           0.247121                  246                 139                  804             0.069748 0.147402   0.361039            0.086130             104                    71           0.520244        0.436992                       15
+loss075 topology_pi_xgb_regime    0.05 4470        943    0.210962 0.315288           0.150850                  998                 129                  814             0.282960 0.136797   0.114463            0.252125              97                    73           0.492678        0.458116                       15
+ loss05               combined    0.05 4470       1485    0.332215 0.623498           0.450171                  345                 321                 1164             0.115578 0.216162   0.481982            0.148993              75                    37           0.462676        0.495042                       17
+ loss05 combined_pi_xgb_regime    0.05 4470       1485    0.332215 0.371935           0.272269                  751                 370                 1115             0.251591 0.249158   0.330062            0.250783             135                    77           0.447081        0.512662                       17
+ loss05                 market    0.05 4470       1485    0.332215 0.599451           0.439925                  408                 392                 1093             0.136683 0.263973   0.490000            0.178971              42                    18           0.413058        0.463693                       17
+ loss05        topology_pi_xgb    0.05 4470       1485    0.332215 0.498723           0.347156                  179                 137                 1348             0.059966 0.092256   0.433544            0.070694              95                    47           0.459375        0.491659                       17
+ loss05 topology_pi_xgb_regime    0.05 4470       1485    0.332215 0.377129           0.274091                  816                 329                 1156             0.273367 0.221549   0.287336            0.256152             107                    63           0.457309        0.509108                       17
+REGIME-PI-60D COMPLETE
+exit 0

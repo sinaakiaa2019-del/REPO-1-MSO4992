@@ -1,0 +1,53 @@
+{
+  "version": "3.0",
+  "status": "Retrospective protocol; additional features specified before this rerun",
+  "price_field": "adjusted_close",
+  "calendar": "observed SPY trading dates",
+  "horizon_sessions": 20,
+  "forward_loss_threshold": -0.1,
+  "step_size": 1,
+  "window_sessions": 60,
+  "ewma_lambda": 0.94,
+  "covariance": "centered exponentially weighted complete-window correlation, 10% identity shrinkage",
+  "minimum_observed_return_fraction": 1.0,
+  "liquidity_cap": null,
+  "filtration": [
+    0,
+    2,
+    200
+  ],
+  "homology_dimensions": [
+    0,
+    1
+  ],
+  "outer_test_years": [
+    2007,
+    2024
+  ],
+  "refitting": "annual",
+  "calibration_sessions": 252,
+  "calibration_negative_day_false_alarm_budget": 0.05,
+  "threshold_comparison": "strictly greater than calibrated negative-score quantile",
+  "inner_tuning": "two chronological validation blocks with horizon purging; two candidates per learner; average precision",
+  "alarm_episodes": "consecutive alert sessions; no cooldown",
+  "bootstrap": "paired moving blocks, length 60 sessions, 500 repetitions",
+  "seed": 42,
+  "untouched_holdout": "none available; 2000-2024 already inspected",
+  "historical_sector_claims": "disabled without dated classifications",
+  "full_constituent_transfer_claims": "disabled without validated target constituent panels",
+  "additional_models": [
+    "LR_enhanced_base",
+    "LR_enhanced_combined",
+    "XGB_enhanced_base",
+    "XGB_enhanced_combined"
+  ],
+  "additional_features": [
+    "SPY momentum 5/20/60",
+    "SPY trailing drawdown 60/252",
+    "SPY downside volatility 20",
+    "lagged VIX change 5 and ratio to trailing 60-session mean",
+    "eligible universe size",
+    "eligible fraction"
+  ],
+  "universe_policy": "All supplied symbols audited; dated index members only; no liquidity cap or future-survival filter"
+}

@@ -1,0 +1,157 @@
+Equal-budget evaluation 2010 4 groups
+Equal-budget evaluation 2011 4 groups
+Equal-budget evaluation 2012 4 groups
+Equal-budget evaluation 2013 4 groups
+Equal-budget evaluation 2014 4 groups
+Equal-budget evaluation 2015 4 groups
+Equal-budget evaluation 2016 4 groups
+Equal-budget evaluation 2017 4 groups
+Equal-budget evaluation 2018 4 groups
+Equal-budget evaluation 2019 4 groups
+Equal-budget evaluation 2020 4 groups
+Equal-budget evaluation 2021 4 groups
+Equal-budget evaluation 2022 4 groups
+Equal-budget evaluation 2023 4 groups
+Equal-budget evaluation 2024 4 groups
+TRANSFER MARKET-TRAINED BASKET COMPLETE credit_bond_ETFs
+Equal-budget evaluation 2007 4 groups
+Equal-budget evaluation 2008 4 groups
+Equal-budget evaluation 2009 4 groups
+Equal-budget evaluation 2010 4 groups
+Equal-budget evaluation 2011 4 groups
+Equal-budget evaluation 2012 4 groups
+Equal-budget evaluation 2013 4 groups
+Equal-budget evaluation 2014 4 groups
+Equal-budget evaluation 2015 4 groups
+Equal-budget evaluation 2016 4 groups
+Equal-budget evaluation 2017 4 groups
+Equal-budget evaluation 2018 4 groups
+Equal-budget evaluation 2019 4 groups
+Equal-budget evaluation 2020 4 groups
+Equal-budget evaluation 2021 4 groups
+Equal-budget evaluation 2022 4 groups
+Equal-budget evaluation 2023 4 groups
+Equal-budget evaluation 2024 4 groups
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\robustness_builder.py:48: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  alarms=observed[observed.alarm.fillna(False).astype(bool)]
+TRANSFER MARKET-TRAINED BASKET COMPLETE international_indices
+TRANSFER MARKET-TRAINED COMPLETE
+exit 0

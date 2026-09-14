@@ -1,0 +1,85 @@
+{
+  "status": "passed",
+  "executed_numerical_source_hashes": true,
+  "equity_snapshot_hash": true,
+  "archived_responses_verified": 977,
+  "commands": [
+    {
+      "command": "python tests/test_saved.py",
+      "exit_code": 0,
+      "output": "{\n  \"defence_metrics_dates_calibration_purges_selection_events\": true,\n  \"rq5_metrics_dates_calibration_purges_selection_events\": true,\n  \"transfer_metrics_shared_dates_and_alarms\": true,\n  \"paired_comparison_point_estimates_and_interval_contracts\": true\n}"
+    },
+    {
+      "command": "python tests/test_run.py",
+      "exit_code": 0,
+      "output": "{'TDA_input_and_source_fingerprints_match': True, 'all_models_identical_test_dates': True, 'label_horizons_purged': True, 'calibration_false_positive_budget': True, 'dynamic_features_prefix_invariant': True, 'real_window_PSD_metric_persistence_regression': True, 'real_input_fail_closed': True}"
+    },
+    {
+      "command": "python tests/test_math.py",
+      "exit_code": 0,
+      "output": "{'mechanical_events_and_delay_embedding_invariance': True, 'landscape_and_network_known_examples': True, 'research_purge_rolling_history_and_single_class_validation': True, 'enhanced_features_prefix_invariant': True, 'missing_price_never_bridged': True, 'centered_PSD_correlation': True, 'missing_returns_rejected': True, 'W2_diagonal_and_identity': True, 'topology_grid_and_integrated_norm': True, 'false_alarm_budget_and_ties': True, 'alarm_episode_accounting': True}"
+    }
+  ],
+  "stages": [
+    {
+      "stage": "data",
+      "exit_code": 0,
+      "seconds": 9.34
+    },
+    {
+      "stage": "math",
+      "exit_code": 0,
+      "seconds": 2.25
+    },
+    {
+      "stage": "tda",
+      "exit_code": 0,
+      "seconds": 261.32
+    },
+    {
+      "stage": "coverage",
+      "exit_code": 0,
+      "seconds": 5.81
+    },
+    {
+      "stage": "ml",
+      "exit_code": 0,
+      "seconds": 73.65
+    },
+    {
+      "stage": "sensitivity",
+      "exit_code": 0,
+      "seconds": 5.57
+    },
+    {
+      "stage": "transfer",
+      "exit_code": 0,
+      "seconds": 21.61
+    },
+    {
+      "stage": "sectors",
+      "exit_code": 0,
+      "seconds": 45.72
+    },
+    {
+      "stage": "defence",
+      "exit_code": 0,
+      "seconds": 81.7
+    },
+    {
+      "stage": "report",
+      "exit_code": 0,
+      "seconds": 11.1
+    },
+    {
+      "stage": "checks",
+      "exit_code": 0,
+      "seconds": 2.59
+    },
+    {
+      "stage": "publish",
+      "exit_code": 0,
+      "seconds": 7.97
+    }
+  ]
+}

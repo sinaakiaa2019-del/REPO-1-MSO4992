@@ -1,0 +1,22 @@
+# Large regeneratable data/evidence files — see README.md for how to rebuild them.
+# Kept out of version control so the repository stays a reviewable size; every one of
+# these is either raw input (downloadable/reproducible) or a derived artefact rebuilt by
+# `python run_all.py` / `python improvement_study.py` / `python orthogonal_topology_addendum.py`.
+inputs/public_prices.csv
+inputs/public_prices_expanded.csv
+inputs/wiki_recovered_prices.csv
+inputs/membership.csv
+inputs/corporate_actions.csv
+results/evidence.sqlite
+results/models.pkl
+results/improved/improved_evidence.sqlite
+results_public_data_release/evidence.sqlite
+results_public_data_release/models.pkl
+demo/synthetic_prices.csv
+demo/features.csv
+missing_symbols_full_list.csv
+cache/
+__pycache__/
+*.pyc
+.venv/
+*.pending

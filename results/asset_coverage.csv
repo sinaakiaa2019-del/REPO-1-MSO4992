@@ -1,0 +1,1125 @@
+symbol,supplied,membership_sessions,first_membership_date,last_membership_date,valid_prices_during_membership,eligible_sessions,first_valid_price,last_valid_price,member_at_end,status,identity
+A,True,6183,2000-06-05,2024-12-31,6183,6183,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+AABA,False,4392,2000-01-03,2017-06-16,0,0,,,False,missing price symbol,historical security identity unresolved
+AAL,True,2392,2015-03-23,2024-09-20,2392,2392,2005-09-27,2024-12-31,False,used,historical security identity unresolved
+AAMRQ,False,801,2000-01-03,2003-03-13,0,0,,,False,missing price symbol,historical security identity unresolved
+AAP,True,2047,2015-07-09,2023-08-24,2047,2047,2001-11-29,2024-12-31,False,used,historical security identity unresolved
+AAPL,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ABBV,True,3020,2013-01-02,2024-12-31,3020,2960,2013-01-02,2024-12-31,True,used,historical security identity unresolved
+ABC,True,5533,2001-08-30,2023-08-29,4167,4107,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+ABI,False,2237,2000-01-03,2008-11-21,0,0,,,False,missing price symbol,historical security identity unresolved
+ABKFQ,False,1883,2000-12-11,2008-06-10,0,0,,,False,missing price symbol,historical security identity unresolved
+ABMD,True,1150,2018-05-31,2022-12-21,0,0,2000-01-03,2018-03-27,False,no valid prices during membership,historical security identity unresolved
+ABNB,True,325,2023-09-18,2024-12-31,325,325,2020-12-10,2024-12-31,True,used,historical security identity unresolved
+ABS,False,1612,2000-01-03,2006-06-01,0,0,,,False,missing price symbol,historical security identity unresolved
+ABT,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ABX,True,638,2000-01-03,2002-07-19,0,0,2020-09-14,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+ACAS,True,417,2007-07-09,2009-03-03,417,417,2000-01-03,2017-01-03,False,used,historical security identity unresolved
+ACGL,True,544,2022-11-01,2024-12-31,544,544,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ACKH,False,223,2000-01-03,2000-11-16,0,0,,,False,missing price symbol,historical security identity unresolved
+ACN,True,3395,2011-07-06,2024-12-31,3395,3395,2001-07-19,2024-12-31,True,used,historical security identity unresolved
+ACS,False,1472,2004-04-02,2010-02-05,0,0,,,False,missing price symbol,historical security identity unresolved
+ACV,True,1730,2000-01-03,2006-11-16,0,0,2015-05-21,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+ADBE,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ADCT,True,1883,2000-01-03,2007-06-29,0,0,2020-05-18,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+ADI,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ADM,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ADP,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ADS,True,1634,2013-12-23,2020-06-19,1071,1011,2001-06-15,2018-03-27,False,used,historical security identity unresolved
+ADSK,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ADT,True,899,2012-10-02,2016-04-29,0,0,2018-01-19,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+AEE,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+AEP,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+AES,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+AET,True,4758,2000-01-03,2018-11-28,4586,4466,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+AFL,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+AFS-A,False,232,2000-01-03,2000-11-30,0,0,,,False,missing price symbol,historical security identity unresolved
+AGC,False,418,2000-01-03,2001-08-28,0,0,,,False,missing price symbol,historical security identity unresolved
+AGN,True,5121,2000-01-03,2020-05-11,4586,4466,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+AIG,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+AIT,True,0,,,0,0,2000-01-03,2024-12-31,False,no dated membership match,historical security identity unresolved
+AIV,True,4475,2003-03-14,2020-12-18,4475,4475,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+AIZ,True,4464,2007-04-10,2024-12-31,4464,4464,2004-02-05,2024-12-31,True,used,historical security identity unresolved
+AJG,True,2162,2016-05-31,2024-12-31,2162,2162,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+AKAM,True,4399,2007-07-12,2024-12-31,4399,4399,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+AKS,True,875,2008-07-01,2011-12-16,875,875,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+AL,True,638,2000-01-03,2002-07-19,0,0,2011-04-19,2018-03-27,False,no valid prices during membership,historical security identity unresolved
+ALB,True,2139,2016-07-01,2024-12-31,2139,2139,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ALGN,True,1897,2017-06-19,2024-12-31,1897,1897,2001-01-30,2024-12-31,True,used,historical security identity unresolved
+ALK,True,1912,2016-05-13,2023-12-15,1912,1912,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+ALL,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ALLE,True,2789,2013-12-02,2024-12-31,2789,2738,2013-11-18,2024-12-31,True,used,historical security identity unresolved
+ALTR,True,3947,2000-04-18,2015-12-24,3947,3947,2000-01-03,2018-03-07,False,used,historical security identity unresolved
+ALXN,True,2302,2012-05-25,2021-07-20,1467,1407,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+AM,True,1087,2000-01-03,2004-04-30,0,0,2017-05-04,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+AMAT,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+AMCC,True,1350,2001-01-02,2006-05-17,1350,1350,2000-01-03,2017-01-26,False,used,historical security identity unresolved
+AMCR,True,1402,2019-06-07,2024-12-31,1402,1402,2012-05-15,2024-12-31,True,used,historical security identity unresolved
+AMD,True,5411,2000-01-03,2024-12-31,5411,5351,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+AME,True,2838,2013-09-23,2024-12-31,2838,2838,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+AMG,True,1380,2014-07-01,2019-12-20,1380,1380,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+AMGN,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+AMH,True,0,,,0,0,2013-08-01,2024-12-31,False,no dated membership match,historical security identity unresolved
+AMP,True,4844,2005-10-03,2024-12-31,4844,4796,2005-09-15,2024-12-31,True,used,historical security identity unresolved
+AMT,True,4308,2007-11-19,2024-12-31,4308,4308,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+AMTM,True,59,2024-09-30,2024-12-20,59,3,2024-09-24,2024-12-31,False,used,historical security identity unresolved
+AMZN,True,4809,2005-11-21,2024-12-31,4809,4809,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+AN,True,3640,2003-02-24,2017-08-07,3640,3640,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+ANDV,True,2772,2007-09-27,2018-09-28,162,42,2017-08-03,2018-03-27,False,used,historical security identity unresolved
+ANDW,False,1696,2000-01-03,2006-09-29,0,0,,,False,missing price symbol,historical security identity unresolved
+ANET,True,1596,2018-08-28,2024-12-31,1596,1596,2014-06-06,2024-12-31,True,used,historical security identity unresolved
+ANF,True,1697,2007-03-29,2013-12-20,1697,1697,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+ANRZQ,False,337,2011-06-02,2012-10-01,0,0,,,False,missing price symbol,historical security identity unresolved
+ANSS,True,1897,2017-06-19,2024-12-31,194,134,2000-01-03,2018-03-27,True,used,historical security identity unresolved
+ANTM,True,5016,2002-07-25,2022-06-27,3945,3885,2001-10-30,2018-03-27,False,used,historical security identity unresolved
+AON,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+AOS,True,1871,2017-07-26,2024-12-31,1871,1871,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+APA,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+APC,True,4931,2000-01-03,2019-08-08,4586,4466,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+APCC,False,1685,2000-06-01,2007-02-14,0,0,,,False,missing price symbol,historical security identity unresolved
+APD,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+APH,True,4091,2008-09-30,2024-12-31,4091,4091,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+APO,True,6,2024-12-23,2024-12-31,6,6,2011-03-30,2024-12-31,True,used,historical security identity unresolved
+APOL,True,2801,2002-05-15,2013-06-28,2801,2801,2000-01-03,2017-02-01,False,used,historical security identity unresolved
+APP,True,0,,,0,0,2021-04-15,2024-12-31,False,no dated membership match,historical security identity unresolved
+APTV,True,3025,2012-12-24,2024-12-31,3025,3025,2011-11-17,2024-12-31,True,used,historical security identity unresolved
+AR,True,0,,,0,0,2013-10-10,2024-12-31,False,no dated membership match,historical security identity unresolved
+ARC,True,74,2000-01-03,2000-04-17,0,0,2005-02-04,2018-03-27,False,no valid prices during membership,historical security identity unresolved
+ARE,True,1960,2017-03-20,2024-12-31,1960,1960,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ARES,True,0,,,0,0,2014-05-02,2024-12-31,False,no dated membership match,historical security identity unresolved
+ARG,True,1687,2009-09-09,2016-05-20,1687,1687,2000-01-03,2016-05-20,False,used,historical security identity unresolved
+ARNC,True,5096,2000-01-03,2020-04-03,4586,4466,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+AS,True,0,,,0,0,2024-02-01,2024-12-31,False,no dated membership match,historical security identity unresolved
+ASC,True,0,,,0,0,2013-08-01,2024-12-31,False,no dated membership match,historical security identity unresolved
+ASH,True,2231,2000-01-03,2008-11-13,2231,2171,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+ASN,False,704,2004-12-20,2007-10-05,0,0,,,False,missing price symbol,historical security identity unresolved
+ASND,True,0,,,0,0,2015-01-28,2024-12-31,False,no dated membership match,historical security identity unresolved
+ASO,True,1721,2000-01-03,2006-11-03,0,0,2020-10-02,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+AT,True,1981,2000-01-03,2007-11-16,0,0,2009-12-03,2018-03-27,False,no valid prices during membership,historical security identity unresolved
+ATGE,False,836,2009-06-09,2012-09-28,0,0,,,False,missing price symbol,historical security identity unresolved
+ATI,True,3898,2000-01-03,2015-07-01,3898,3838,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+ATO,True,1479,2019-02-15,2024-12-31,1479,1479,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ATVI,True,2047,2015-08-31,2023-10-17,646,526,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+AV,False,1776,2000-10-02,2007-10-25,0,0,,,False,missing price symbol,historical security identity unresolved
+AVB,True,4525,2007-01-10,2024-12-31,2822,2762,2000-01-03,2018-03-27,True,used,historical security identity unresolved
+AVGO,True,2681,2014-05-08,2024-12-31,2681,2681,2009-08-06,2024-12-31,True,used,historical security identity unresolved
+AVP,True,3827,2000-01-03,2015-03-20,3827,3767,2000-01-03,2018-03-07,False,used,historical security identity unresolved
+AVY,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+AW,False,2245,2000-01-03,2008-12-04,0,0,,,False,missing price symbol,historical security identity unresolved
+AWE,False,829,2001-07-09,2004-10-26,0,0,,,False,missing price symbol,historical security identity unresolved
+AWK,True,2222,2016-03-04,2024-12-31,2222,2222,2008-04-23,2024-12-31,True,used,historical security identity unresolved
+AXON,True,418,2023-05-04,2024-12-31,418,418,2001-06-19,2024-12-31,True,used,historical security identity unresolved
+AXP,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+AYE,False,2567,2000-12-11,2011-02-25,0,0,,,False,missing price symbol,historical security identity unresolved
+AYI,True,535,2016-05-03,2018-06-15,535,535,2001-12-03,2024-12-31,False,used,historical security identity unresolved
+AZA-A,False,372,2000-01-03,2001-06-22,0,0,,,False,missing price symbol,historical security identity unresolved
+AZO,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+BA,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+BAC,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+BALL,True,665,2022-05-10,2024-12-31,665,665,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+BAX,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+BBBY,True,4418,2000-01-03,2017-07-25,4418,4358,2000-01-03,2018-03-07,False,used,historical security identity unresolved
+BBT,True,5015,2000-01-03,2019-12-06,4892,4832,2000-06-28,2024-12-31,False,used,historical security identity unresolved
+BBWI,True,795,2021-08-03,2024-09-30,795,795,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+BBY,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+BC,True,2129,2000-01-03,2008-06-20,2129,2069,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+BCO,True,0,,,0,0,2000-01-03,2024-12-31,False,no dated membership match,historical security identity unresolved
+BCR,True,4527,2000-01-03,2017-12-28,4526,4432,2000-01-03,2017-12-28,False,used,historical security identity unresolved
+BDK,False,2563,2000-01-03,2010-03-12,0,0,,,False,missing price symbol,historical security identity unresolved
+BDX,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+BEAM,True,3603,2000-01-03,2014-04-30,0,0,2020-02-06,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+BEN,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+BF-B,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+BFO,False,190,2000-01-03,2000-10-02,0,0,,,False,missing price symbol,historical security identity unresolved
+BG,True,453,2023-03-15,2024-12-31,453,453,2001-08-02,2024-12-31,True,used,historical security identity unresolved
+BGEN,False,952,2000-01-31,2003-11-12,0,0,,,False,missing price symbol,historical security identity unresolved
+BGG,True,315,2000-01-03,2001-04-02,315,255,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+BHF,True,415,2017-08-07,2019-04-01,415,370,2017-07-17,2024-12-31,False,used,historical security identity unresolved
+BHGE,True,4980,2000-01-03,2019-10-17,181,47,2017-07-06,2018-03-27,False,used,historical security identity unresolved
+BHMSQ,False,238,2000-01-03,2000-12-08,0,0,,,False,missing price symbol,historical security identity unresolved
+BIG,True,3299,2000-01-03,2013-02-13,3299,3239,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+BIIB,True,5318,2003-11-13,2024-12-31,5318,5318,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+BIO,True,1070,2020-06-22,2024-09-20,1070,1070,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+BJS,False,2003,2002-05-15,2010-04-28,0,0,,,False,missing price symbol,historical security identity unresolved
+BK,True,6289,2000-01-03,2024-12-31,4586,4466,2000-01-03,2018-03-27,True,used,historical security identity unresolved
+BKNG,True,3812,2009-11-06,2024-12-31,3812,3812,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+BKR,True,1309,2019-10-18,2024-12-31,1309,1309,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+BLDR,True,261,2023-12-18,2024-12-31,261,261,2005-06-28,2024-12-31,True,used,historical security identity unresolved
+BLK,True,3459,2011-04-04,2024-12-31,3459,3459,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+BLL,True,5624,2000-01-03,2022-05-09,4586,4466,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+BLS,False,1759,2000-01-03,2006-12-29,0,0,,,False,missing price symbol,historical security identity unresolved
+BMC,False,3443,2000-01-03,2013-09-10,0,0,,,False,missing price symbol,historical security identity unresolved
+BMET,False,1890,2000-01-03,2007-07-11,0,0,,,False,missing price symbol,historical security identity unresolved
+BMS,True,3755,2000-01-03,2014-12-04,3755,3695,2000-01-03,2019-06-10,False,used,historical security identity unresolved
+BMY,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+BNI,False,2544,2000-01-03,2010-02-12,0,0,,,False,missing price symbol,historical security identity unresolved
+BNL,True,0,,,0,0,2020-09-17,2024-12-31,False,no dated membership match,historical security identity unresolved
+BNY,True,0,,,0,0,2000-01-03,2024-12-31,False,no dated membership match,historical security identity unresolved
+BOL,False,1966,2000-01-03,2007-10-26,0,0,,,False,missing price symbol,historical security identity unresolved
+BR,True,3216,2000-01-03,2024-12-31,1646,1646,2007-03-22,2024-12-31,True,used,historical security identity unresolved
+BRCM,True,3918,2000-07-03,2016-01-29,3918,3918,2000-01-03,2016-01-29,False,used,historical security identity unresolved
+BRK-B,True,3745,2010-02-16,2024-12-31,3745,3745,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+BRL,False,712,2006-02-27,2008-12-22,0,0,,,False,missing price symbol,historical security identity unresolved
+BRO,True,826,2021-09-20,2024-12-31,826,826,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+BSC,False,2114,2000-01-03,2008-05-30,0,0,,,False,missing price symbol,historical security identity unresolved
+BSX,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+BTUUQ,False,1971,2006-11-20,2014-09-19,0,0,,,False,missing price symbol,historical security identity unresolved
+BUD,True,2233,2000-01-03,2008-11-17,0,0,2009-07-01,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+BVSN,False,207,2000-11-06,2001-08-31,0,0,,,False,missing price symbol,historical security identity unresolved
+BWA,True,3279,2011-12-19,2024-12-31,3279,3279,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+BX,True,325,2023-09-18,2024-12-31,325,325,2007-06-22,2024-12-31,True,used,historical security identity unresolved
+BXLT,True,233,2015-07-01,2016-06-02,233,173,2015-07-01,2016-06-02,False,used,historical security identity unresolved
+BXP,True,4719,2006-04-03,2024-12-31,4719,4719,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+C,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CA,True,4742,2000-01-03,2018-11-05,4586,4466,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+CAG,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CAH,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CAL,True,0,,,0,0,2000-01-03,2024-12-31,False,no dated membership match,historical security identity unresolved
+CAM,True,2059,2008-01-29,2016-04-01,2059,2059,2000-01-03,2016-04-01,False,used,historical security identity unresolved
+CAR,True,1653,2000-01-03,2006-07-31,1653,1593,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+CARR,True,1194,2020-04-03,2024-12-31,1194,1145,2020-03-19,2024-12-31,True,used,historical security identity unresolved
+CASY,True,0,,,0,0,2000-01-03,2024-12-31,False,no dated membership match,historical security identity unresolved
+CAT,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CB,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CBE,False,2691,2000-01-03,2012-11-30,0,0,,,False,missing price symbol,historical security identity unresolved
+CBH,False,456,2006-06-06,2008-03-28,0,0,,,False,missing price symbol,historical security identity unresolved
+CBOE,True,1973,2017-03-01,2024-12-31,1973,1973,2010-06-15,2024-12-31,True,used,historical security identity unresolved
+CBRE,True,4564,2006-11-10,2024-12-31,4564,4564,2004-06-10,2024-12-31,True,used,historical security identity unresolved
+CBS,True,5013,2000-01-03,2019-12-04,3097,2977,2005-12-05,2018-03-27,False,used,historical security identity unresolved
+CBSS,False,683,2004-12-20,2007-09-06,0,0,,,False,missing price symbol,historical security identity unresolved
+CCB,True,0,,,0,0,2018-07-19,2024-12-31,False,no dated membership match,historical security identity unresolved
+CCE,True,4127,2000-01-03,2016-05-27,4127,4067,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+CCEP,True,102,2016-01-04,2016-05-27,102,102,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+CCI,True,3222,2012-03-13,2024-12-31,3222,3222,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CCK,True,238,2000-01-03,2000-12-08,238,178,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+CCL,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CCTYQ,False,2070,2000-01-03,2008-03-28,0,0,,,False,missing price symbol,historical security identity unresolved
+CCU,True,2156,2000-01-03,2008-07-30,2156,2096,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+CDAY,False,595,2021-09-20,2024-01-31,0,0,,,False,missing price symbol,historical security identity unresolved
+CDNS,True,1834,2017-09-18,2024-12-31,1834,1834,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CDW,True,1328,2019-09-23,2024-12-31,1328,1328,2013-06-27,2024-12-31,True,used,historical security identity unresolved
+CE,True,2243,2001-04-02,2024-12-31,1515,1515,2005-01-21,2024-12-31,True,used,historical security identity unresolved
+CEG,True,3799,2000-01-03,2024-12-31,732,682,2022-01-19,2024-12-31,True,used,historical security identity unresolved
+CELG,True,3283,2006-11-06,2019-11-20,2864,2744,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+CEN,False,314,2000-01-03,2001-03-30,0,0,,,False,missing price symbol,historical security identity unresolved
+CEPH,False,733,2008-11-17,2011-10-13,0,0,,,False,missing price symbol,historical security identity unresolved
+CERN,True,3048,2010-04-30,2022-06-07,1990,1930,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+CF,True,5169,2000-06-19,2024-12-31,4114,4114,2005-08-11,2024-12-31,True,used,historical security identity unresolved
+CFC,False,2135,2000-01-03,2008-06-30,0,0,,,False,missing price symbol,historical security identity unresolved
+CFG,True,2245,2016-02-01,2024-12-31,2245,2245,2014-09-24,2024-12-31,True,used,historical security identity unresolved
+CFN,True,1393,2009-09-01,2015-03-16,1393,1340,2009-08-21,2015-03-16,False,used,historical security identity unresolved
+CG,True,212,2000-01-03,2000-11-01,0,0,2012-05-03,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+CGP,False,271,2000-01-03,2001-01-29,0,0,,,False,missing price symbol,historical security identity unresolved
+CHA,False,116,2000-01-03,2000-06-16,0,0,,,False,missing price symbol,historical security identity unresolved
+CHD,True,2267,2015-12-29,2024-12-31,2267,2267,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CHIR,False,1355,2000-11-24,2006-04-19,0,0,,,False,missing price symbol,historical security identity unresolved
+CHK,True,3031,2006-03-03,2018-03-16,3030,2970,2000-01-03,2018-03-16,False,used,historical security identity unresolved
+CHRS,True,0,,,0,0,2014-11-06,2024-12-31,False,no dated membership match,historical security identity unresolved
+CHRW,True,4490,2007-03-02,2024-12-31,4490,4490,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CHTR,True,2092,2016-09-08,2024-12-31,2092,2092,2010-01-05,2024-12-31,True,used,historical security identity unresolved
+CI,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CIEN,True,2088,2001-08-30,2009-12-18,2088,2088,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+CIN,False,1570,2000-01-03,2006-03-31,0,0,,,False,missing price symbol,historical security identity unresolved
+CINF,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CIT-A,False,222,2000-07-17,2001-06-01,0,0,,,False,missing price symbol,historical security identity unresolved
+CITGQ,False,1194,2004-10-27,2009-07-24,0,0,,,False,missing price symbol,historical security identity unresolved
+CL,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CLF,True,1076,2009-12-21,2014-04-01,1076,1076,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+CLX,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CMA,True,6156,2000-01-03,2024-06-21,4586,4466,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+CMCSA,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CMCSK,True,59,2015-09-21,2015-12-11,59,59,2000-01-03,2015-12-11,False,used,historical security identity unresolved
+CME,True,4628,2006-08-11,2024-12-31,4628,4628,2002-12-06,2024-12-31,True,used,historical security identity unresolved
+CMG,True,3442,2011-04-28,2024-12-31,3442,3442,2006-01-26,2024-12-31,True,used,historical security identity unresolved
+CMI,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CMS,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CMVT,False,1779,2000-01-03,2007-01-31,0,0,,,False,missing price symbol,historical security identity unresolved
+CMX,False,753,2004-03-25,2007-03-22,0,0,,,False,missing price symbol,historical security identity unresolved
+CNC,True,2846,2000-01-03,2024-12-31,2358,2298,2001-12-13,2024-12-31,True,used,historical security identity unresolved
+CNG,False,19,2000-01-03,2000-01-28,0,0,,,False,missing price symbol,historical security identity unresolved
+CNP,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CNX,True,2437,2006-06-28,2016-03-03,2437,2437,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+CNXT,False,602,2000-01-31,2002-06-25,0,0,,,False,missing price symbol,historical security identity unresolved
+COC-B,False,668,2000-01-03,2002-08-30,0,0,,,False,missing price symbol,historical security identity unresolved
+COF,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+COG,True,3344,2008-06-23,2021-10-01,2457,2397,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+COHR,True,0,,,0,0,2000-01-03,2024-12-31,False,no dated membership match,historical security identity unresolved
+COIN,True,0,,,0,0,2021-04-14,2024-12-31,False,no dated membership match,historical security identity unresolved
+COL,True,4379,2001-07-02,2018-11-26,4209,4100,2001-06-15,2018-03-27,False,used,historical security identity unresolved
+COMS,True,144,2000-01-03,2000-07-27,0,0,2008-08-15,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+COO,True,2081,2016-09-23,2024-12-31,2081,2081,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+COP,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+COR,True,337,2023-08-30,2024-12-31,337,337,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+COST,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+COTY,True,998,2016-10-03,2020-09-18,998,998,2013-06-13,2024-12-31,False,used,historical security identity unresolved
+COV,True,1469,2007-07-02,2015-01-26,1469,1421,2007-06-14,2015-01-26,False,used,historical security identity unresolved
+CPAY,True,195,2024-03-25,2024-12-31,195,195,2010-12-15,2024-12-31,True,used,historical security identity unresolved
+CPB,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CPGX,True,252,2015-07-02,2016-06-30,252,192,2015-07-02,2016-06-30,False,used,historical security identity unresolved
+CPNLQ,False,1256,2000-12-01,2005-12-01,0,0,,,False,missing price symbol,historical security identity unresolved
+CPQ,False,585,2000-01-03,2002-05-03,0,0,,,False,missing price symbol,historical security identity unresolved
+CPRI,True,1096,2016-01-04,2020-05-11,1096,1096,2011-12-15,2024-12-31,False,used,historical security identity unresolved
+CPRT,True,1636,2018-07-02,2024-12-31,1636,1636,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CPT,True,690,2022-04-04,2024-12-31,690,690,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CPWR,True,3019,2000-01-03,2011-12-30,1279,1213,2006-12-04,2024-12-31,False,used,historical security identity unresolved
+CR,True,1247,2000-01-03,2004-12-17,0,0,2023-03-29,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+CRH,True,0,,,0,0,2000-01-03,2024-12-31,False,no dated membership match,historical security identity unresolved
+CRL,True,914,2021-05-14,2024-12-31,914,914,2000-06-23,2024-12-31,True,used,historical security identity unresolved
+CRM,True,4102,2008-09-15,2024-12-31,4102,4102,2004-06-23,2024-12-31,True,used,historical security identity unresolved
+CRWD,True,133,2024-06-24,2024-12-31,133,133,2019-06-12,2024-12-31,True,used,historical security identity unresolved
+CSCO,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CSGP,True,575,2022-09-19,2024-12-31,575,575,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CSR,True,115,2000-01-03,2000-06-15,115,55,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+CSRA,True,589,2015-11-30,2018-04-03,584,464,2015-11-30,2018-03-27,False,used,historical security identity unresolved
+CSX,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CTAS,True,5997,2001-03-01,2024-12-31,5997,5997,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CTB,True,1643,2000-01-03,2006-07-17,1643,1583,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+CTL,True,5211,2000-01-03,2020-09-17,4586,4466,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+CTLT,False,1071,2020-09-21,2024-12-20,0,0,,,False,missing price symbol,historical security identity unresolved
+CTRA,False,816,2021-10-04,2024-12-31,0,0,,,True,missing price symbol,historical security identity unresolved
+CTSH,True,4559,2006-11-17,2024-12-31,4559,4559,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CTVA,True,1406,2019-06-03,2024-12-31,1406,1351,2019-05-24,2024-12-31,True,used,historical security identity unresolved
+CTX,False,2421,2000-01-03,2009-08-18,0,0,,,False,missing price symbol,historical security identity unresolved
+CTXS,True,5724,2000-01-03,2022-09-30,4586,4466,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+CVC,True,1384,2010-12-20,2016-06-20,1384,1384,2000-01-03,2016-06-20,False,used,historical security identity unresolved
+CVG,True,2395,2000-06-13,2009-12-18,2395,2395,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+CVH,False,1933,2005-08-30,2013-05-06,0,0,,,False,missing price symbol,historical security identity unresolved
+CVNA,True,0,,,0,0,2017-04-28,2024-12-31,False,no dated membership match,historical security identity unresolved
+CVS,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CVX,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+CXO,True,1238,2016-02-22,2021-01-20,528,468,2007-08-03,2018-03-27,False,used,historical security identity unresolved
+CZR,True,952,2021-03-22,2024-12-31,952,952,2014-09-22,2024-12-31,True,used,historical security identity unresolved
+D,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+DAL,True,2846,2013-09-11,2024-12-31,2846,2846,2007-05-03,2024-12-31,True,used,historical security identity unresolved
+DALRQ,False,1415,2000-01-03,2005-08-18,0,0,,,False,missing price symbol,historical security identity unresolved
+DASH,True,0,,,0,0,2020-12-09,2024-12-31,False,no dated membership match,historical security identity unresolved
+DAY,False,231,2024-02-01,2024-12-31,0,0,,,True,missing price symbol,historical security identity unresolved
+DCNAQ,False,1549,2000-01-03,2006-03-02,0,0,,,False,missing price symbol,historical security identity unresolved
+DD,True,5851,2000-01-03,2024-12-31,5851,5791,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+DDOG,True,0,,,0,0,2019-09-19,2024-12-31,False,no dated membership match,historical security identity unresolved
+DDR,True,508,2007-03-23,2009-03-27,508,508,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+DDS,True,2214,2000-01-03,2008-10-21,2214,2154,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+DE,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+DEC,True,0,,,0,0,2023-11-30,2024-12-31,False,no dated membership match,historical security identity unresolved
+DECK,True,200,2024-03-18,2024-12-31,200,200,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+DELL,True,3547,2000-01-03,2024-12-31,70,70,2016-08-17,2024-12-31,True,used,historical security identity unresolved
+DF,True,1798,2006-04-03,2013-05-23,1798,1798,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+DFS,True,4406,2007-07-02,2024-12-31,2703,2595,2007-06-14,2018-03-27,True,used,historical security identity unresolved
+DG,True,4927,2000-01-03,2024-12-31,3040,3040,2009-11-13,2024-12-31,True,used,historical security identity unresolved
+DGX,True,5550,2002-12-12,2024-12-31,5550,5550,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+DHI,True,4907,2005-07-05,2024-12-31,4907,4907,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+DHR,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+DIGI,True,0,,,0,0,2010-05-13,2024-12-31,False,no dated membership match,historical security identity unresolved
+DIS,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+DISCA,True,3051,2010-03-01,2022-04-08,2033,1973,2005-07-08,2018-03-27,False,used,historical security identity unresolved
+DISCK,True,1933,2014-08-07,2022-04-08,915,855,2008-09-18,2018-03-27,False,used,historical security identity unresolved
+DISH,True,1578,2017-03-13,2023-06-16,262,202,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+DJ,False,1999,2000-01-03,2007-12-13,0,0,,,False,missing price symbol,historical security identity unresolved
+DLR,True,2170,2016-05-18,2024-12-31,2170,2170,2004-10-29,2024-12-31,True,used,historical security identity unresolved
+DLTR,True,3279,2011-12-19,2024-12-31,3279,3279,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+DLX,True,1247,2000-01-03,2004-12-17,1247,1187,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+DNB,True,2099,2008-12-02,2017-04-04,2099,2099,2000-01-03,2018-03-07,False,used,historical security identity unresolved
+DNR,True,1502,2009-04-02,2015-03-20,1502,1502,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+DO,True,1914,2009-02-26,2016-09-30,1914,1914,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+DOC,True,210,2024-03-04,2024-12-31,210,210,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+DOV,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+DOW,True,5893,2000-01-03,2024-12-31,1448,1397,2019-03-20,2024-12-31,True,used,historical security identity unresolved
+DPHIQ,False,1451,2000-01-03,2005-10-10,0,0,,,False,missing price symbol,historical security identity unresolved
+DPZ,True,1168,2020-05-12,2024-12-31,1168,1168,2004-07-13,2024-12-31,True,used,historical security identity unresolved
+DRE,True,1306,2017-07-26,2022-09-30,168,108,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+DRI,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+DTE,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+DTV,True,2174,2006-12-04,2015-07-24,2174,2174,2003-12-23,2018-03-07,False,used,historical security identity unresolved
+DUK,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+DVA,True,4133,2008-07-31,2024-12-31,4133,4133,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+DVN,True,6122,2000-08-30,2024-12-31,6122,6122,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+DWDP,True,438,2017-09-01,2019-05-31,141,34,2017-09-01,2018-03-27,False,used,historical security identity unresolved
+DXC,True,5637,2000-01-03,2023-09-29,5637,5577,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+DXCM,True,1168,2020-05-12,2024-12-31,1168,1168,2005-04-14,2024-12-31,True,used,historical security identity unresolved
+DYN,True,2317,2000-10-03,2009-12-18,0,0,2020-09-17,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+EA,True,5651,2002-07-22,2024-12-31,3948,3888,2000-01-03,2018-03-27,True,used,historical security identity unresolved
+EBAY,True,5651,2002-07-22,2024-12-31,5651,5651,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+EC,True,1614,2000-01-03,2006-06-05,0,0,2008-09-18,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+ECHO,True,0,,,0,0,2008-01-02,2024-12-31,False,no dated membership match,historical security identity unresolved
+ECL,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ECO,True,0,,,0,0,2023-08-14,2024-12-31,False,no dated membership match,historical security identity unresolved
+ED,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+EDS,False,2174,2000-01-03,2008-08-25,0,0,,,False,missing price symbol,historical security identity unresolved
+EFU,False,212,2000-01-03,2000-11-01,0,0,,,False,missing price symbol,historical security identity unresolved
+EFX,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+EG,True,374,2023-07-10,2024-12-31,374,374,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+EHC,True,806,2000-01-03,2003-03-20,806,746,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+EIX,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+EKDKQ,False,2758,2000-01-03,2010-12-17,0,0,,,False,missing price symbol,historical security identity unresolved
+EL,True,4779,2006-01-05,2024-12-31,4779,4779,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ELV,True,632,2022-06-28,2024-12-31,632,632,2001-10-30,2024-12-31,True,used,historical security identity unresolved
+EMC,True,4196,2000-01-03,2016-09-06,4196,4136,2000-01-03,2016-09-06,False,used,historical security identity unresolved
+EME,True,0,,,0,0,2000-01-03,2024-12-31,False,no dated membership match,historical security identity unresolved
+EMN,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+EMR,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ENDP,True,528,2015-01-27,2017-03-01,528,528,2000-07-18,2018-03-27,False,used,historical security identity unresolved
+ENPH,True,1002,2021-01-07,2024-12-31,1002,1002,2012-03-30,2024-12-31,True,used,historical security identity unresolved
+ENRNQ,False,479,2000-01-03,2001-11-29,0,0,,,False,missing price symbol,historical security identity unresolved
+ENS,True,0,,,0,0,2004-08-02,2024-12-31,False,no dated membership match,historical security identity unresolved
+EOG,True,6077,2000-11-02,2024-12-31,6077,6077,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+EOP,False,1343,2001-10-10,2007-02-09,0,0,,,False,missing price symbol,historical security identity unresolved
+EP,True,3119,2000-01-03,2012-05-24,3119,3059,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+EPAM,True,766,2021-12-14,2024-12-31,766,766,2012-02-08,2024-12-31,True,used,historical security identity unresolved
+EQ,True,785,2006-05-18,2009-06-30,0,0,2018-10-12,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+EQIX,True,2462,2015-03-23,2024-12-31,2462,2462,2000-08-11,2024-12-31,True,used,historical security identity unresolved
+EQR,True,5809,2001-12-03,2024-12-31,4106,4046,2000-01-03,2018-03-27,True,used,historical security identity unresolved
+EQT,True,3057,2008-12-19,2024-12-31,3057,3057,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ERIE,True,70,2024-09-23,2024-12-31,70,70,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ES,True,3976,2009-03-17,2024-12-31,3976,3976,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ESRX,True,3836,2003-09-26,2018-12-20,3649,3589,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+ESS,True,2706,2014-04-02,2024-12-31,2706,2706,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ESV,True,1669,2007-01-04,2016-03-29,1669,1669,2000-01-03,2018-03-07,False,used,historical security identity unresolved
+ETFC,True,4158,2004-04-01,2020-10-06,3520,3460,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+ETN,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ETR,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ETS,False,401,2000-01-03,2001-08-03,0,0,,,False,missing price symbol,historical security identity unresolved
+ETSY,True,1007,2020-09-21,2024-09-20,1007,1007,2015-04-16,2024-12-31,False,used,historical security identity unresolved
+EVHC,True,467,2016-12-02,2018-10-10,329,269,2013-08-14,2018-03-27,False,used,historical security identity unresolved
+EVRG,True,1655,2018-06-05,2024-12-31,1655,1655,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+EW,True,3460,2011-04-01,2024-12-31,3460,3460,2000-03-27,2024-12-31,True,used,historical security identity unresolved
+EXC,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+EXE,True,0,,,0,0,2021-02-10,2024-12-31,False,no dated membership match,historical security identity unresolved
+EXPD,True,4336,2007-10-10,2024-12-31,4336,4336,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+EXPE,True,4342,2007-10-02,2024-12-31,4342,4342,2005-07-21,2024-12-31,True,used,historical security identity unresolved
+EXR,True,2254,2016-01-19,2024-12-31,2254,2254,2004-08-16,2024-12-31,True,used,historical security identity unresolved
+F,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+FANG,True,1529,2018-12-03,2024-12-31,1529,1529,2012-10-12,2024-12-31,True,used,historical security identity unresolved
+FAST,True,4102,2008-09-15,2024-12-31,4102,4102,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+FB,True,2130,2013-12-23,2022-06-08,1071,1011,2012-05-18,2018-03-27,False,used,historical security identity unresolved
+FBF,False,1066,2000-01-03,2004-03-31,0,0,,,False,missing price symbol,historical security identity unresolved
+FBHS,True,1633,2016-06-24,2022-12-16,441,381,2011-09-16,2018-03-27,False,used,historical security identity unresolved
+FCN,True,0,,,0,0,2000-01-03,2024-12-31,False,no dated membership match,historical security identity unresolved
+FCPT,True,5,2015-11-10,2015-11-16,5,0,2015-11-10,2024-12-31,False,no complete valid window,historical security identity unresolved
+FCX,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+FDC,False,1942,2000-01-03,2007-09-24,0,0,,,False,missing price symbol,historical security identity unresolved
+FDO,True,3499,2001-08-06,2015-07-06,3499,3499,2000-01-03,2015-07-06,False,used,historical security identity unresolved
+FDS,True,762,2021-12-20,2024-12-31,762,762,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+FDX,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+FE,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+FERG,True,0,,,0,0,2010-01-05,2024-12-31,False,no dated membership match,historical security identity unresolved
+FFIV,True,3531,2010-12-20,2024-12-31,3531,3531,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+FG,True,0,,,0,0,2022-11-22,2024-12-31,False,no dated membership match,historical security identity unresolved
+FHN,True,2803,2002-05-06,2013-06-21,2803,2803,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+FI,False,395,2023-06-07,2024-12-31,0,0,,,True,missing price symbol,historical security identity unresolved
+FICO,True,450,2023-03-20,2024-12-31,450,450,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+FII,True,2445,2003-04-16,2012-12-31,2445,2445,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+FIS,True,4564,2006-11-10,2024-12-31,4564,4564,2001-06-20,2024-12-31,True,used,historical security identity unresolved
+FISV,True,5580,2001-04-02,2023-06-06,5580,5580,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+FITB,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+FIX,True,0,,,0,0,2000-01-03,2024-12-31,False,no dated membership match,historical security identity unresolved
+FJ,False,227,2000-01-03,2000-11-22,0,0,,,False,missing price symbol,historical security identity unresolved
+FL,True,844,2016-04-04,2019-08-08,499,439,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+FLEX,True,0,,,0,0,2000-01-03,2024-12-31,False,no dated membership match,historical security identity unresolved
+FLIR,True,3112,2009-01-02,2021-05-13,2323,2263,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+FLR,True,4636,2000-12-22,2019-05-31,4636,4591,2000-12-01,2024-12-31,False,used,historical security identity unresolved
+FLS,True,3137,2008-10-02,2021-03-19,3137,3137,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+FLT,True,1449,2018-06-20,2024-03-22,0,0,2010-12-15,2018-03-27,False,no valid prices during membership,historical security identity unresolved
+FLTWQ,False,19,2000-01-03,2000-01-28,0,0,,,False,missing price symbol,historical security identity unresolved
+FMC,True,4368,2000-01-03,2024-12-31,4368,4308,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+FMCC,True,2185,2000-01-03,2008-09-10,2185,2125,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+FMY,True,0,,,0,0,2005-05-26,2024-12-31,False,no dated membership match,historical security identity unresolved
+FNMA,True,2185,2000-01-03,2008-09-10,2185,2125,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+FOSL,True,943,2012-04-04,2016-01-04,943,943,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+FOX,True,2336,2015-09-21,2024-12-31,1462,1402,2019-03-13,2024-12-31,True,used,historical security identity unresolved
+FOXA,True,5042,2004-12-20,2024-12-31,1463,1403,2019-03-12,2024-12-31,True,used,historical security identity unresolved
+FPC,False,232,2000-01-03,2000-11-30,0,0,,,False,missing price symbol,historical security identity unresolved
+FRC,True,1092,2019-01-02,2023-05-03,0,0,2010-12-09,2018-03-27,False,no valid prices during membership,historical security identity unresolved
+FRO,True,0,,,0,0,2001-08-06,2024-12-31,False,no dated membership match,historical security identity unresolved
+FRT,True,2245,2016-02-01,2024-12-31,2245,2245,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+FRX,True,3419,2000-11-22,2014-06-30,3419,3419,2000-01-03,2014-06-30,False,used,historical security identity unresolved
+FSH,False,575,2004-08-03,2006-11-09,0,0,,,False,missing price symbol,historical security identity unresolved
+FSL,True,504,2004-12-03,2006-12-01,0,0,2011-05-26,2015-12-07,False,no valid prices during membership,historical security identity unresolved
+FSLR,True,2378,2009-10-16,2024-12-31,2378,2378,2006-11-17,2024-12-31,True,used,historical security identity unresolved
+FTI,True,2943,2009-06-05,2021-02-11,2943,2943,2001-06-15,2024-12-31,False,used,historical security identity unresolved
+FTNT,True,1565,2018-10-11,2024-12-31,1565,1565,2009-11-18,2024-12-31,True,used,historical security identity unresolved
+FTR,True,4039,2001-02-27,2017-03-17,4039,4039,2000-01-03,2018-03-07,False,used,historical security identity unresolved
+FTV,True,2138,2016-07-05,2024-12-31,2138,2078,2016-07-05,2024-12-31,True,used,historical security identity unresolved
+FWLT,False,19,2000-01-03,2000-01-28,0,0,,,False,missing price symbol,historical security identity unresolved
+G,True,1445,2000-01-03,2005-09-30,0,0,2007-08-02,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+GAPTQ,False,167,2000-01-03,2000-08-29,0,0,,,False,missing price symbol,historical security identity unresolved
+GAS,True,4149,2000-01-03,2016-06-30,4149,4089,2000-01-03,2016-06-30,False,used,historical security identity unresolved
+GD,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+GDDY,True,133,2024-06-24,2024-12-31,133,133,2015-03-31,2024-12-31,True,used,historical security identity unresolved
+GDT,False,1584,2000-01-03,2006-04-21,0,0,,,False,missing price symbol,historical security identity unresolved
+GDW,False,1696,2000-01-03,2006-09-29,0,0,,,False,missing price symbol,historical security identity unresolved
+GE,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+GEHC,True,501,2023-01-04,2024-12-31,501,453,2022-12-15,2024-12-31,True,used,historical security identity unresolved
+GEN,True,539,2022-11-08,2024-12-31,539,539,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+GENZ,True,2341,2001-12-14,2011-04-01,805,745,2008-01-24,2024-12-31,False,used,historical security identity unresolved
+GEV,True,190,2024-04-02,2024-12-31,190,133,2024-03-27,2024-12-31,True,used,historical security identity unresolved
+GGP,True,1534,2007-07-02,2018-08-27,1427,1367,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+GHC,True,1693,2007-12-31,2014-09-19,1693,1693,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+GILD,True,5161,2004-07-01,2024-12-31,5161,5161,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+GIS,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+GL,True,1359,2019-08-08,2024-12-31,1359,1359,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+GLK,False,1382,2000-01-03,2005-07-01,0,0,,,False,missing price symbol,historical security identity unresolved
+GLW,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+GM,True,2912,2013-06-07,2024-12-31,2912,2912,2010-11-18,2024-12-31,True,used,historical security identity unresolved
+GMCR,True,490,2014-03-24,2016-03-02,490,490,2000-01-03,2016-03-02,False,used,historical security identity unresolved
+GME,True,2103,2007-12-14,2016-04-22,2103,2103,2002-02-13,2024-12-31,False,used,historical security identity unresolved
+GNRC,True,952,2021-03-22,2024-12-31,952,952,2010-02-11,2024-12-31,True,used,historical security identity unresolved
+GNT,True,0,,,0,0,2011-01-27,2024-12-31,False,no dated membership match,historical security identity unresolved
+GNW,True,2507,2005-12-02,2015-11-17,2507,2507,2004-05-25,2024-12-31,False,used,historical security identity unresolved
+GOOG,True,2705,2014-04-03,2024-12-31,2705,2705,2004-08-19,2024-12-31,True,used,historical security identity unresolved
+GOOGL,True,4719,2006-04-03,2024-12-31,4719,4719,2004-08-19,2024-12-31,True,used,historical security identity unresolved
+GP,True,1500,2000-01-03,2005-12-19,0,0,2020-08-28,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+GPC,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+GPN,True,2187,2016-04-25,2024-12-31,2187,2187,2001-01-16,2024-12-31,True,used,historical security identity unresolved
+GPS,True,5557,2000-01-03,2022-02-01,4586,4466,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+GPU,False,463,2000-01-03,2001-11-06,0,0,,,False,missing price symbol,historical security identity unresolved
+GR,False,3162,2000-01-03,2012-07-26,0,0,,,False,missing price symbol,historical security identity unresolved
+GRA,True,238,2000-01-03,2000-12-08,238,178,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+GRMN,True,3033,2012-12-12,2024-12-31,3033,3033,2000-12-08,2024-12-31,True,used,historical security identity unresolved
+GS,True,5651,2002-07-22,2024-12-31,5651,5651,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+GT,True,4817,2000-01-03,2019-02-26,4817,4757,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+GTE,True,126,2000-01-03,2000-06-30,0,0,2005-12-21,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+GTW,False,1653,2000-01-03,2006-07-31,0,0,,,False,missing price symbol,historical security identity unresolved
+GWW,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+GX,False,443,2000-01-03,2001-10-09,0,0,,,False,missing price symbol,historical security identity unresolved
+H,True,548,2000-01-03,2007-04-09,0,0,2009-11-05,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+HAL,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+HAR,True,2796,2006-02-01,2017-03-10,2796,2796,2000-01-03,2017-03-10,False,used,historical security identity unresolved
+HAS,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+HBAN,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+HBI,True,1700,2015-03-23,2021-12-17,759,699,2006-09-06,2018-03-27,False,used,historical security identity unresolved
+HCA,True,4231,2000-01-03,2024-12-31,2500,2500,2011-03-10,2024-12-31,True,used,historical security identity unresolved
+HCBK,True,2194,2007-02-15,2015-10-30,2194,2194,2000-01-03,2015-10-30,False,used,historical security identity unresolved
+HCP,True,2922,2008-03-31,2019-11-04,2516,2456,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+HCR,False,1975,2000-01-03,2007-11-08,0,0,,,False,missing price symbol,historical security identity unresolved
+HD,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+HES,True,6289,2000-01-03,2024-12-31,4586,4466,2000-01-03,2018-03-27,True,used,historical security identity unresolved
+HET,False,2028,2000-01-03,2008-01-28,0,0,,,False,missing price symbol,historical security identity unresolved
+HFC,True,746,2018-06-18,2021-06-03,0,0,2000-01-03,2018-03-27,False,no valid prices during membership,historical security identity unresolved
+HI,True,812,2000-01-03,2003-03-28,0,0,2008-03-28,2018-03-27,False,no valid prices during membership,historical security identity unresolved
+HIG,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+HII,True,1760,2018-01-03,2024-12-31,1760,1760,2011-03-22,2024-12-31,True,used,historical security identity unresolved
+HLT,True,3861,2000-01-03,2024-12-31,1897,1897,2013-12-12,2024-12-31,True,used,historical security identity unresolved
+HM,False,490,2000-01-03,2001-12-14,0,0,,,False,missing price symbol,historical security identity unresolved
+HMA,False,1336,2001-11-07,2007-03-01,0,0,,,False,missing price symbol,historical security identity unresolved
+HNZ,False,3377,2000-01-03,2013-06-06,0,0,,,False,missing price symbol,historical security identity unresolved
+HOG,True,5130,2000-01-31,2020-06-19,5130,5089,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+HOLX,True,2205,2016-03-30,2024-12-31,502,442,2000-01-03,2018-03-27,True,used,historical security identity unresolved
+HON,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+HOOD,True,0,,,0,0,2021-07-29,2024-12-31,False,no dated membership match,historical security identity unresolved
+HOT,True,3985,2000-11-17,2016-09-22,3985,3985,2000-01-03,2016-09-22,False,used,historical security identity unresolved
+HP,True,2576,2010-03-01,2020-05-21,2576,2576,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+HPC,False,2231,2000-01-03,2008-11-13,0,0,,,False,missing price symbol,historical security identity unresolved
+HPE,True,2306,2015-11-02,2024-12-31,2306,2256,2015-10-19,2024-12-31,True,used,historical security identity unresolved
+HPQ,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+HRB,True,5212,2000-01-03,2020-09-18,5212,5152,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+HRL,True,3985,2009-03-04,2024-12-31,3985,3985,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+HRS,True,2691,2008-09-22,2019-05-31,2394,2334,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+HSH,True,3143,2000-01-03,2012-06-28,3143,3083,2000-01-03,2014-08-29,False,used,historical security identity unresolved
+HSIC,True,2465,2015-03-18,2024-12-31,2465,2465,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+HSP,True,2855,2004-05-03,2015-09-02,2855,2795,2004-05-03,2015-09-02,False,used,historical security identity unresolved
+HST,True,4478,2007-03-20,2024-12-31,4478,4478,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+HSY,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+HUBB,True,303,2023-10-18,2024-12-31,303,303,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+HUM,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+HWM,True,1193,2020-04-06,2024-12-31,1193,1193,2016-11-01,2024-12-31,True,used,historical security identity unresolved
+IAC,False,432,2006-12-01,2008-08-20,0,0,,,False,missing price symbol,historical security identity unresolved
+IBKR,True,0,,,0,0,2007-05-04,2024-12-31,False,no dated membership match,historical security identity unresolved
+IBM,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ICE,True,4346,2007-09-26,2024-12-31,4346,4346,2005-11-16,2024-12-31,True,used,historical security identity unresolved
+IDXX,True,2010,2017-01-05,2024-12-31,2010,2010,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+IEX,True,1358,2019-08-09,2024-12-31,1358,1358,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+IFF,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+IGT,True,3217,2001-09-04,2014-06-19,3217,3217,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+IKN,False,124,2000-01-03,2000-06-28,0,0,,,False,missing price symbol,historical security identity unresolved
+ILMN,True,2160,2015-11-19,2024-06-21,2160,2160,2000-07-28,2024-12-31,False,used,historical security identity unresolved
+IMNX,False,204,2001-09-21,2002-07-15,0,0,,,False,missing price symbol,historical security identity unresolved
+INCLF,False,638,2000-01-03,2002-07-19,0,0,,,False,missing price symbol,historical security identity unresolved
+INCY,True,1974,2017-02-28,2024-12-31,1974,1974,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+INFO,True,1195,2017-06-02,2022-03-01,205,85,2017-06-02,2018-03-27,False,used,historical security identity unresolved
+INGR,True,0,,,0,0,2000-01-03,2024-12-31,False,no dated membership match,historical security identity unresolved
+INTC,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+INTU,True,6051,2000-12-11,2024-12-31,6051,6051,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+INVH,True,575,2022-09-19,2024-12-31,575,575,2017-02-01,2024-12-31,True,used,historical security identity unresolved
+IP,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+IPG,True,6289,2000-01-03,2024-12-31,4586,4466,2000-01-03,2018-03-27,True,used,historical security identity unresolved
+IPGP,True,1080,2018-03-07,2022-06-17,1080,1080,2006-12-13,2024-12-31,False,used,historical security identity unresolved
+IQV,True,1847,2017-08-29,2024-12-31,1847,1847,2013-05-09,2024-12-31,True,used,historical security identity unresolved
+IR,True,5940,2000-01-03,2024-12-31,1922,1862,2017-05-12,2024-12-31,True,used,historical security identity unresolved
+IRM,True,4024,2009-01-06,2024-12-31,4024,4024,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ISRG,True,4175,2008-06-02,2024-12-31,4175,4175,2000-06-16,2024-12-31,True,used,historical security identity unresolved
+IT,True,1948,2017-04-05,2024-12-31,1948,1948,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ITT,True,2977,2000-01-03,2011-10-31,2977,2917,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+ITW,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+IVZ,True,4118,2008-08-21,2024-12-31,4118,4118,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+J,True,1273,2019-12-10,2024-12-31,1273,1273,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+JAVA,False,2531,2000-01-03,2010-01-26,0,0,,,False,missing price symbol,historical security identity unresolved
+JBHT,True,2392,2015-07-01,2024-12-31,2392,2392,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+JBL,True,3724,2001-01-30,2024-12-31,3724,3724,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+JCI,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+JCP,True,3500,2000-01-03,2013-11-29,3500,3440,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+JEC,True,3051,2007-10-26,2019-12-09,2621,2561,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+JEF,True,3042,2007-08-27,2019-09-25,3042,3042,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+JHF,False,709,2001-06-29,2004-04-28,0,0,,,False,missing price symbol,historical security identity unresolved
+JKHY,True,1542,2018-11-13,2024-12-31,1542,1542,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+JNJ,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+JNPR,True,4677,2006-06-02,2024-12-31,2974,2914,2000-01-03,2018-03-27,True,used,historical security identity unresolved
+JNS,True,2860,2000-07-13,2011-11-22,2860,2812,2000-06-26,2017-05-26,False,used,historical security identity unresolved
+JNY,True,1814,2001-12-17,2009-03-03,1814,1814,2000-01-03,2014-04-08,False,used,historical security identity unresolved
+JOS,False,89,2000-01-03,2000-05-09,0,0,,,False,missing price symbol,historical security identity unresolved
+JOY,True,1161,2011-02-28,2015-10-07,1161,1161,2001-05-25,2017-04-05,False,used,historical security identity unresolved
+JP,False,1570,2000-01-03,2006-03-31,0,0,,,False,missing price symbol,historical security identity unresolved
+JPM,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+JWN,True,5149,2000-01-03,2020-06-19,4586,4466,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+K,True,6289,2000-01-03,2024-12-31,4586,4466,2000-01-03,2018-03-27,True,used,historical security identity unresolved
+KATE,False,2242,2000-01-03,2008-12-01,0,0,,,False,missing price symbol,historical security identity unresolved
+KBH,True,2507,2000-01-03,2009-12-18,2507,2447,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+KDP,True,3087,2008-10-07,2024-12-31,3087,3087,2008-05-07,2024-12-31,True,used,historical security identity unresolved
+KEY,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+KEYS,True,1547,2018-11-06,2024-12-31,1547,1547,2014-10-20,2024-12-31,True,used,historical security identity unresolved
+KG,True,2568,2000-10-03,2010-12-17,662,602,2008-05-06,2024-12-31,False,used,historical security identity unresolved
+KHC,True,2390,2015-07-06,2024-12-31,2390,2330,2015-07-06,2024-12-31,True,used,historical security identity unresolved
+KIM,True,4719,2006-04-03,2024-12-31,4719,4719,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+KKR,True,133,2024-06-24,2024-12-31,133,133,2010-07-15,2024-12-31,True,used,historical security identity unresolved
+KLAC,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+KM,False,511,2000-01-03,2002-01-16,0,0,,,False,missing price symbol,historical security identity unresolved
+KMB,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+KMG,True,1661,2000-01-03,2006-08-10,1661,1601,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+KMI,True,4792,2000-12-12,2024-12-31,3170,3170,2011-02-11,2024-12-31,True,used,historical security identity unresolved
+KMX,True,3653,2010-06-28,2024-12-31,3653,3653,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+KO,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+KORS,True,1220,2013-11-13,2018-09-18,1098,1038,2011-12-15,2018-03-27,False,used,historical security identity unresolved
+KR,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+KRB,False,1508,2000-01-03,2005-12-30,0,0,,,False,missing price symbol,historical security identity unresolved
+KRFT,True,691,2012-10-02,2015-07-02,691,642,2012-09-17,2015-07-02,False,used,historical security identity unresolved
+KRI,False,1630,2000-01-03,2006-06-27,0,0,,,False,missing price symbol,historical security identity unresolved
+KSE,False,1762,2000-08-21,2007-08-24,0,0,,,False,missing price symbol,historical security identity unresolved
+KSS,True,5212,2000-01-03,2020-09-18,5212,5152,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+KSU,True,2288,2000-01-03,2021-12-13,1351,1231,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+KVUE,True,340,2023-08-25,2024-12-31,340,340,2023-05-04,2024-12-31,True,used,historical security identity unresolved
+L,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+LB,True,5430,2000-01-03,2021-08-02,0,0,2024-06-28,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+LDG,False,377,2000-01-03,2001-06-29,0,0,,,False,missing price symbol,historical security identity unresolved
+LDOS,True,2302,2009-12-21,2024-12-31,2302,2302,2006-10-17,2024-12-31,True,used,historical security identity unresolved
+LEG,True,5527,2000-01-03,2021-12-17,4586,4466,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+LEHMQ,False,2189,2000-01-03,2008-09-16,0,0,,,False,missing price symbol,historical security identity unresolved
+LEN,True,4843,2005-10-04,2024-12-31,4843,4843,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+LH,True,5076,2004-11-01,2024-12-31,5076,5076,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+LHX,True,1406,2019-06-03,2024-12-31,1406,1406,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+LIFE,True,1299,2008-11-24,2014-01-23,0,0,2015-05-07,2018-03-07,False,no valid prices during membership,historical security identity unresolved
+LII,True,6,2024-12-23,2024-12-31,6,6,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+LIN,True,1547,2018-11-06,2024-12-31,1547,1547,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+LITE,True,0,,,0,0,2015-07-23,2024-12-31,False,no dated membership match,historical security identity unresolved
+LKQ,True,2167,2016-05-23,2024-12-31,2167,2167,2003-10-06,2024-12-31,True,used,historical security identity unresolved
+LLL,True,3669,2004-12-01,2019-06-28,3352,3292,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+LLTC,True,4261,2000-04-03,2017-03-10,4261,4261,2000-01-03,2017-03-10,False,used,historical security identity unresolved
+LLY,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+LM,True,2673,2006-04-24,2016-12-01,2673,2673,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+LMT,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+LNC,True,5964,2000-01-03,2023-09-15,5964,5904,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+LNT,True,2139,2016-07-01,2024-12-31,2139,2139,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+LO,True,1763,2008-06-11,2015-06-11,1763,1704,2008-06-10,2015-06-11,False,used,historical security identity unresolved
+LOW,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+LPX,True,1725,2000-01-03,2006-11-09,1725,1665,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+LRCX,True,3164,2012-06-05,2024-12-31,3164,3164,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+LSI,True,3607,2000-01-03,2014-05-06,3607,3547,2000-01-03,2018-03-07,False,used,historical security identity unresolved
+LU,True,1739,2000-01-03,2006-11-30,0,0,2020-10-30,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+LULU,True,303,2023-10-18,2024-12-31,303,303,2007-07-27,2024-12-31,True,used,historical security identity unresolved
+LUMN,True,628,2020-09-18,2023-03-17,628,628,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+LUV,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+LVLT,True,740,2014-11-05,2017-10-12,740,740,2000-01-03,2017-10-31,False,used,historical security identity unresolved
+LVS,True,1320,2019-10-03,2024-12-31,1320,1320,2004-12-15,2024-12-31,True,used,historical security identity unresolved
+LW,True,1529,2018-12-03,2024-12-31,1529,1529,2016-11-10,2024-12-31,True,used,historical security identity unresolved
+LXK,True,3207,2000-01-03,2012-09-28,3207,3147,2000-01-03,2016-11-28,False,used,historical security identity unresolved
+LYB,True,3100,2012-09-05,2024-12-31,3100,3100,2010-04-28,2024-12-31,True,used,historical security identity unresolved
+LYV,True,1264,2019-12-23,2024-12-31,1264,1264,2005-12-21,2024-12-31,True,used,historical security identity unresolved
+M,True,5096,2000-01-03,2020-04-03,5096,5036,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+MA,True,4142,2008-07-18,2024-12-31,4142,4142,2006-05-25,2024-12-31,True,used,historical security identity unresolved
+MAA,True,2032,2016-12-02,2024-12-31,2032,2032,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MAC,True,1668,2013-05-09,2019-12-20,1668,1668,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+MAR,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MAS,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MAT,True,4887,2000-01-03,2019-06-06,4887,4827,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+MAY,False,1421,2000-01-03,2005-08-26,0,0,,,False,missing price symbol,historical security identity unresolved
+MBI,True,2507,2000-01-03,2009-12-18,2507,2447,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+MCD,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MCHP,True,4359,2007-09-07,2024-12-31,4359,4359,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MCIC,True,0,,,0,0,2000-01-03,2024-12-31,False,no dated membership match,historical security identity unresolved
+MCK,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MCO,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MD,True,0,,,0,0,2000-01-03,2024-12-31,False,no dated membership match,historical security identity unresolved
+MDLZ,True,4469,2007-04-02,2024-12-31,4469,4469,2001-06-13,2024-12-31,True,used,historical security identity unresolved
+MDP,True,2768,2000-01-03,2011-01-03,2768,2708,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+MDR,True,911,2000-01-03,2003-08-19,911,851,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+MDT,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MEA,False,519,2000-01-03,2002-01-29,0,0,,,False,missing price symbol,historical security identity unresolved
+MEDI,False,1747,2000-06-16,2007-05-31,0,0,,,False,missing price symbol,historical security identity unresolved
+MEE,False,989,2000-01-03,2011-06-01,0,0,,,False,missing price symbol,historical security identity unresolved
+MEL,False,1883,2000-01-03,2007-06-29,0,0,,,False,missing price symbol,historical security identity unresolved
+MER,False,2263,2000-01-03,2008-12-31,0,0,,,False,missing price symbol,historical security identity unresolved
+MERQ,False,1385,2000-06-29,2006-01-03,0,0,,,False,missing price symbol,historical security identity unresolved
+MET,True,6051,2000-12-11,2024-12-31,6051,6051,2000-04-05,2024-12-31,True,used,historical security identity unresolved
+META,True,644,2022-06-09,2024-12-31,644,644,2012-05-18,2024-12-31,True,used,historical security identity unresolved
+MFE,False,549,2008-12-23,2011-02-28,0,0,,,False,missing price symbol,historical security identity unresolved
+MGM,True,1871,2017-07-26,2024-12-31,1871,1871,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MHK,True,2774,2013-12-23,2024-12-31,2774,2774,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MHS,False,2170,2003-08-20,2012-03-30,0,0,,,False,missing price symbol,historical security identity unresolved
+MI,True,2367,2002-02-11,2011-07-05,0,0,2015-11-25,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+MIL,True,2648,2000-01-03,2010-07-14,2648,2588,2000-01-03,2016-02-12,False,used,historical security identity unresolved
+MIR,True,676,2000-01-03,2003-07-16,0,0,2020-08-20,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+MJN,True,1883,2009-12-21,2017-06-14,1883,1883,2009-02-11,2017-06-14,False,used,historical security identity unresolved
+MKC,True,5483,2003-03-21,2024-12-31,5483,5483,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MKG,False,201,2000-01-03,2000-10-17,0,0,,,False,missing price symbol,historical security identity unresolved
+MKTX,True,1386,2019-07-01,2024-12-31,1386,1386,2004-11-05,2024-12-31,True,used,historical security identity unresolved
+MLM,True,2643,2014-07-02,2024-12-31,2643,2643,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MMC,True,6289,2000-01-03,2024-12-31,4586,4466,2000-01-03,2018-03-27,True,used,historical security identity unresolved
+MMI,True,348,2011-01-04,2012-05-21,0,0,2013-10-31,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+MMM,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MNK,True,739,2014-08-19,2017-07-25,739,739,2013-06-17,2018-03-27,False,used,historical security identity unresolved
+MNR,True,0,,,0,0,2023-10-25,2024-12-31,False,no dated membership match,historical security identity unresolved
+MNST,True,3146,2012-06-29,2024-12-31,3146,3146,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MO,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MOB,True,0,,,0,0,2022-08-25,2024-12-31,False,no dated membership match,historical security identity unresolved
+MOH,True,713,2022-03-02,2024-12-31,713,713,2003-07-02,2024-12-31,True,used,historical security identity unresolved
+MOLX,False,3505,2000-01-03,2013-12-06,0,0,,,False,missing price symbol,historical security identity unresolved
+MON,True,3981,2002-08-14,2018-06-06,3931,3871,2000-10-18,2018-03-27,False,used,historical security identity unresolved
+MOS,True,3338,2011-09-26,2024-12-31,3338,3338,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MPC,True,3397,2011-07-01,2024-12-31,3397,3342,2011-06-24,2024-12-31,True,used,historical security identity unresolved
+MPWR,True,977,2021-02-12,2024-12-31,977,977,2004-11-19,2024-12-31,True,used,historical security identity unresolved
+MRK,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MRNA,True,868,2021-07-21,2024-12-31,868,868,2018-12-07,2024-12-31,True,used,historical security identity unresolved
+MRO,True,6265,2000-01-03,2024-11-25,4586,4466,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+MRSH,True,0,,,0,0,2000-01-03,2024-12-31,False,no dated membership match,historical security identity unresolved
+MRVL,True,0,,,0,0,2000-06-30,2024-12-31,False,no dated membership match,historical security identity unresolved
+MS,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MSCI,True,1698,2018-04-04,2024-12-31,1698,1698,2007-11-15,2024-12-31,True,used,historical security identity unresolved
+MSFT,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MSI,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MTB,True,5247,2004-02-27,2024-12-31,5247,5247,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MTCH,True,826,2021-09-20,2024-12-31,826,826,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MTD,True,2094,2016-09-06,2024-12-31,2094,2094,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MTG,True,2221,2000-01-03,2008-10-30,2221,2161,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+MTLQQ,False,2367,2000-01-03,2009-06-02,0,0,,,False,missing price symbol,historical security identity unresolved
+MTW,True,450,2007-11-16,2009-08-31,450,450,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+MU,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+MUR,True,3007,2005-08-15,2017-07-25,3007,3007,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+MWV,True,3898,2000-01-03,2015-07-01,3898,3838,2000-01-03,2015-07-01,False,used,historical security identity unresolved
+MWW,True,2653,2001-06-04,2011-12-16,2653,2653,2000-01-03,2016-10-31,False,used,historical security identity unresolved
+MXIM,True,2544,2000-05-10,2021-08-27,1855,1855,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+MYG,False,1570,2000-01-03,2006-03-31,0,0,,,False,missing price symbol,historical security identity unresolved
+MYL,True,4172,2004-04-23,2020-11-16,3505,3445,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+MZIAQ,False,124,2000-01-03,2000-06-28,0,0,,,False,missing price symbol,historical security identity unresolved
+NAV,True,1752,2000-01-03,2006-12-19,1752,1692,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+NAVI,True,1031,2014-05-01,2018-06-04,1031,980,2014-04-17,2024-12-31,False,used,historical security identity unresolved
+NBL,True,3276,2007-10-08,2020-10-09,2635,2575,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+NBR,True,3626,2000-10-18,2015-03-20,3626,3626,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+NC,True,106,2000-01-03,2000-06-02,106,46,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+NCC,False,2263,2000-01-03,2008-12-31,0,0,,,False,missing price symbol,historical security identity unresolved
+NCE,False,160,2000-01-03,2000-08-18,0,0,,,False,missing price symbol,historical security identity unresolved
+NCLH,True,1815,2017-10-13,2024-12-31,1815,1815,2013-01-18,2024-12-31,True,used,historical security identity unresolved
+NCR,True,1945,2000-01-04,2007-09-28,1945,1886,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+NDAQ,True,4075,2008-10-22,2024-12-31,4075,4075,2002-07-01,2024-12-31,True,used,historical security identity unresolved
+NDSN,True,723,2022-02-15,2024-12-31,723,723,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+NE,True,3192,2001-01-16,2015-07-17,0,0,2021-06-09,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+NEE,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+NEM,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+NFB,False,1104,2002-07-17,2006-11-30,0,0,,,False,missing price symbol,historical security identity unresolved
+NFLX,True,3531,2010-12-20,2024-12-31,3531,3531,2002-05-23,2024-12-31,True,used,historical security identity unresolved
+NFX,True,2052,2010-12-20,2019-02-14,1828,1768,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+NGH,False,239,2000-01-03,2000-12-11,0,0,,,False,missing price symbol,historical security identity unresolved
+NI,True,6077,2000-11-02,2024-12-31,6077,6077,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+NKE,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+NKTR,True,389,2018-03-19,2019-10-02,389,389,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+NLOK,False,758,2019-11-05,2022-11-07,0,0,,,False,missing price symbol,historical security identity unresolved
+NLSN,True,2333,2013-07-09,2022-10-11,1188,1128,2011-01-27,2018-03-27,False,used,historical security identity unresolved
+NLV,False,3,2000-01-03,2000-01-05,0,0,,,False,missing price symbol,historical security identity unresolved
+NMK,False,521,2000-01-03,2002-01-31,0,0,,,False,missing price symbol,historical security identity unresolved
+NOC,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+NOV,True,4159,2005-03-14,2021-09-17,4159,4159,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+NOVL,False,2847,2000-01-03,2011-04-27,0,0,,,False,missing price symbol,historical security identity unresolved
+NOW,True,1285,2019-11-21,2024-12-31,1285,1285,2012-06-29,2024-12-31,True,used,historical security identity unresolved
+NRG,True,3756,2010-01-29,2024-12-31,3756,3756,2003-12-02,2024-12-31,True,used,historical security identity unresolved
+NRTLQ,False,638,2000-01-03,2002-07-19,0,0,,,False,missing price symbol,historical security identity unresolved
+NSC,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+NSI,False,480,2000-01-03,2001-11-30,0,0,,,False,missing price symbol,historical security identity unresolved
+NSM,True,2951,2000-01-03,2011-09-23,0,0,2012-03-08,2018-03-27,False,no valid prices during membership,historical security identity unresolved
+NTAP,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+NTRS,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+NUE,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+NVDA,True,5810,2001-11-30,2024-12-31,5810,5810,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+NVLS,False,3009,2000-06-19,2012-06-04,0,0,,,False,missing price symbol,historical security identity unresolved
+NVR,True,1325,2019-09-26,2024-12-31,1325,1325,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+NWL,True,5964,2000-01-03,2023-09-15,5964,5904,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+NWS,True,2336,2015-09-21,2024-12-31,2336,2336,2013-06-19,2024-12-31,True,used,historical security identity unresolved
+NWSA,True,2896,2013-07-01,2024-12-31,2896,2844,2013-06-19,2024-12-31,True,used,historical security identity unresolved
+NXPI,True,952,2021-03-22,2024-12-31,952,952,2010-08-06,2024-12-31,True,used,historical security identity unresolved
+NXTL,False,1411,2000-01-03,2005-08-12,0,0,,,False,missing price symbol,historical security identity unresolved
+NYT,True,2758,2000-01-03,2010-12-17,2758,2698,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+NYX,False,1524,2007-10-25,2013-11-12,0,0,,,False,missing price symbol,historical security identity unresolved
+O,True,2452,2015-04-07,2024-12-31,2452,2452,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+OAT,False,400,2000-01-03,2001-08-02,0,0,,,False,missing price symbol,historical security identity unresolved
+ODFL,True,1274,2019-12-09,2024-12-31,1274,1274,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ODP,True,2758,2000-01-03,2010-12-17,2758,2698,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+OGN,True,597,2021-06-04,2023-10-17,597,551,2021-05-14,2024-12-31,False,used,historical security identity unresolved
+OI,True,2232,2000-01-03,2016-12-01,2232,2172,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+OK,False,314,2000-01-03,2001-03-30,0,0,,,False,missing price symbol,historical security identity unresolved
+OKE,True,4145,2000-01-03,2024-12-31,4145,4085,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+OM,True,0,,,0,0,2020-09-15,2024-12-31,False,no dated membership match,historical security identity unresolved
+OMC,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+OMX,False,2129,2000-01-03,2008-06-20,0,0,,,False,missing price symbol,historical security identity unresolved
+ON,True,637,2022-06-21,2024-12-31,637,637,2000-05-02,2024-12-31,True,used,historical security identity unresolved
+ONE,True,1128,2000-01-03,2004-06-30,0,0,2010-06-17,2016-08-04,False,no valid prices during membership,historical security identity unresolved
+ORCL,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ORLY,True,3968,2009-03-27,2024-12-31,3968,3968,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+OTIS,True,1194,2020-04-03,2024-12-31,1194,1145,2020-03-19,2024-12-31,True,used,historical security identity unresolved
+OWENQ,False,189,2000-01-03,2000-09-29,0,0,,,False,missing price symbol,historical security identity unresolved
+OXY,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+PAC,True,0,,,0,0,2006-02-27,2024-12-31,False,no dated membership match,historical security identity unresolved
+PALM,False,511,2000-07-28,2002-08-13,0,0,,,False,missing price symbol,historical security identity unresolved
+PANW,True,387,2023-06-20,2024-12-31,387,387,2012-07-20,2024-12-31,True,used,historical security identity unresolved
+PARA,True,721,2022-02-17,2024-12-31,721,721,2021-02-12,2024-12-31,True,used,historical security identity unresolved
+PAYC,True,1241,2020-01-28,2024-12-31,1241,1241,2014-04-15,2024-12-31,True,used,historical security identity unresolved
+PAYX,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+PBCT,True,3369,2008-11-13,2022-04-01,2356,2296,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+PBG,False,2210,2001-05-14,2010-02-26,0,0,,,False,missing price symbol,historical security identity unresolved
+PBI,True,4316,2000-01-03,2017-02-28,4316,4256,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+PBY,True,63,2000-01-03,2000-03-31,63,3,2000-01-03,2016-02-03,False,used,historical security identity unresolved
+PCAR,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+PCG,True,5356,2000-01-03,2024-12-31,5356,5296,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+PCH,True,381,2000-01-03,2001-07-06,381,321,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+PCL,True,3547,2002-01-17,2016-02-19,3547,3547,2000-01-03,2016-02-19,False,used,historical security identity unresolved
+PCP,True,2182,2007-06-01,2016-01-29,2182,2182,2000-01-03,2016-01-29,False,used,historical security identity unresolved
+PCS,False,1081,2000-01-03,2004-04-22,0,0,,,False,missing price symbol,historical security identity unresolved
+PD,True,1811,2000-01-03,2007-03-19,0,0,2019-04-11,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+PDCO,True,3129,2005-10-11,2018-03-16,3128,3068,2000-01-03,2018-03-16,False,used,historical security identity unresolved
+PDG,False,638,2000-01-03,2002-07-19,0,0,,,False,missing price symbol,historical security identity unresolved
+PEAK,False,1087,2019-11-05,2024-03-01,0,0,,,False,missing price symbol,historical security identity unresolved
+PEG,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+PENN,True,377,2021-03-22,2022-09-16,377,377,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+PEP,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+PETM,True,609,2012-10-05,2015-03-11,609,609,2000-01-03,2015-03-11,False,used,historical security identity unresolved
+PFE,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+PFG,True,5651,2002-07-22,2024-12-31,5651,5651,2001-10-23,2024-12-31,True,used,historical security identity unresolved
+PG,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+PGL,False,1793,2000-01-03,2007-02-21,0,0,,,False,missing price symbol,historical security identity unresolved
+PGN,False,3144,2000-01-03,2012-06-29,0,0,,,False,missing price symbol,historical security identity unresolved
+PGR,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+PH,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+PHA,False,824,2000-01-03,2003-04-15,0,0,,,False,missing price symbol,historical security identity unresolved
+PHM,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+PKG,True,1871,2017-07-26,2024-12-31,1871,1871,2000-01-28,2024-12-31,True,used,historical security identity unresolved
+PKI,True,5879,2000-01-03,2023-05-15,4586,4466,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+PLD,True,5402,2003-07-17,2024-12-31,5402,5402,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+PLL,True,3939,2000-01-03,2015-08-28,3939,3879,2000-01-03,2015-08-28,False,used,historical security identity unresolved
+PLTR,True,70,2024-09-23,2024-12-31,70,70,2020-09-30,2024-12-31,True,used,historical security identity unresolved
+PM,True,4219,2008-03-31,2024-12-31,4219,4168,2008-03-17,2024-12-31,True,used,historical security identity unresolved
+PMCS,True,1483,2001-08-03,2007-06-29,1483,1483,2000-01-03,2016-01-14,False,used,historical security identity unresolved
+PNC,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+PNR,True,3082,2012-10-01,2024-12-31,3082,3082,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+PNU,False,63,2000-01-03,2000-03-31,0,0,,,False,missing price symbol,historical security identity unresolved
+PNW,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+PODD,True,453,2023-03-15,2024-12-31,453,453,2007-05-15,2024-12-31,True,used,historical security identity unresolved
+POM,True,2106,2007-11-09,2016-03-23,2106,2106,2000-01-03,2016-03-23,False,used,historical security identity unresolved
+POOL,True,1065,2020-10-07,2024-12-31,1065,1065,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+PPG,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+PPL,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+PRD,False,239,2000-01-03,2000-12-11,0,0,,,False,missing price symbol,historical security identity unresolved
+PRGO,True,2453,2011-12-19,2021-09-17,2453,2453,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+PRU,True,5651,2002-07-22,2024-12-31,5651,5651,2001-12-13,2024-12-31,True,used,historical security identity unresolved
+PSA,True,4874,2005-08-19,2024-12-31,4874,4874,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+PSFT,False,1253,2000-01-03,2004-12-28,0,0,,,False,missing price symbol,historical security identity unresolved
+PSKY,True,0,,,0,0,2005-12-05,2024-12-31,False,no dated membership match,historical security identity unresolved
+PSX,True,3188,2012-05-01,2024-12-31,3188,3141,2012-04-12,2024-12-31,True,used,historical security identity unresolved
+PTC,True,2691,2000-01-03,2024-12-31,2691,2631,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+PTV,False,2736,2000-01-03,2010-11-16,0,0,,,False,missing price symbol,historical security identity unresolved
+PVH,True,2415,2013-02-14,2022-09-16,2415,2415,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+PVN,False,1445,2000-01-03,2005-09-30,0,0,,,False,missing price symbol,historical security identity unresolved
+PWER,False,1100,2000-10-23,2005-03-11,0,0,,,False,missing price symbol,historical security identity unresolved
+PWJ,False,214,2000-01-03,2000-11-03,0,0,,,False,missing price symbol,historical security identity unresolved
+PWR,True,3902,2009-07-01,2024-12-31,3902,3902,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+PX,True,4738,2000-01-03,2018-10-30,4586,4466,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+PXD,True,3931,2008-09-24,2024-05-07,2392,2332,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+PYPL,True,2380,2015-07-20,2024-12-31,2380,2330,2015-07-06,2024-12-31,True,used,historical security identity unresolved
+Q,True,2701,2000-07-06,2011-03-31,0,0,2013-05-09,2017-11-14,False,no valid prices during membership,historical security identity unresolved
+QCOM,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+QEP,True,1258,2010-07-01,2015-06-30,1258,1209,2010-06-16,2018-03-07,False,used,historical security identity unresolved
+QLGC,True,2538,2000-12-12,2011-01-14,2538,2538,2000-01-03,2016-08-16,False,used,historical security identity unresolved
+QRVO,True,2399,2015-06-12,2024-12-20,2399,2399,2015-01-02,2024-12-31,False,used,historical security identity unresolved
+QTRN,False,937,2000-01-03,2003-09-25,0,0,,,False,missing price symbol,historical security identity unresolved
+R,True,4392,2000-01-03,2017-06-16,4392,4332,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+RAD,True,143,2000-01-03,2000-07-26,143,83,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+RAI,True,3748,2002-09-04,2017-07-24,3748,3748,2000-01-03,2017-07-24,False,used,historical security identity unresolved
+RAL,False,488,2000-01-03,2001-12-12,0,0,,,False,missing price symbol,historical security identity unresolved
+RATL,False,265,2002-02-01,2003-02-20,0,0,,,False,missing price symbol,historical security identity unresolved
+RBK,False,1528,2000-01-03,2006-01-31,0,0,,,False,missing price symbol,historical security identity unresolved
+RCL,True,2534,2014-12-05,2024-12-31,2534,2534,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+RDC,True,3679,2000-01-03,2014-08-18,3679,3619,2000-01-03,2018-03-07,False,used,historical security identity unresolved
+RDDT,True,0,,,0,0,2024-03-21,2024-12-31,False,no dated membership match,historical security identity unresolved
+RDS-A,False,638,2000-01-03,2002-07-19,0,0,,,False,missing price symbol,historical security identity unresolved
+RE,True,1523,2017-06-19,2023-07-07,194,134,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+REG,True,1972,2017-03-02,2024-12-31,1972,1972,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+REGN,True,2938,2013-05-01,2024-12-31,2938,2938,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+RF,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+RHI,True,5922,2000-12-05,2024-06-21,5922,5922,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+RHT,True,2508,2009-07-27,2019-07-12,2182,2122,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+RIG,True,3196,2000-01-03,2017-07-25,3196,3136,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+RJF,True,1960,2017-03-20,2024-12-31,1960,1960,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+RL,True,4509,2007-02-02,2024-12-31,4509,4509,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+RLM,False,85,2000-01-03,2000-05-03,0,0,,,False,missing price symbol,historical security identity unresolved
+RMD,True,1871,2017-07-26,2024-12-31,1871,1871,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+RML,False,239,2000-01-03,2000-12-11,0,0,,,False,missing price symbol,historical security identity unresolved
+ROH,False,2325,2000-01-03,2009-04-01,0,0,,,False,missing price symbol,historical security identity unresolved
+ROK,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ROL,True,1573,2018-10-01,2024-12-31,1573,1573,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ROP,True,3780,2009-12-23,2024-12-31,3780,3780,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ROST,True,3782,2009-12-21,2024-12-31,3782,3782,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+RRC,True,2639,2007-12-21,2018-06-15,2639,2639,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+RRD,True,3256,2000-01-03,2012-12-11,3256,3196,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+RSG,True,4044,2008-12-05,2024-12-31,4044,4044,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+RSHCQ,False,2892,2000-01-03,2011-06-30,0,0,,,False,missing price symbol,historical security identity unresolved
+RTN,True,5096,2000-01-03,2020-04-03,4586,4466,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+RTX,True,1194,2020-04-03,2024-12-31,1194,1194,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+RVTY,True,410,2023-05-16,2024-12-31,410,410,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+RX,False,2552,2000-01-03,2010-02-25,0,0,,,False,missing price symbol,historical security identity unresolved
+RYAN,True,0,,,0,0,2021-07-22,2024-12-31,False,no dated membership match,historical security identity unresolved
+S,True,3398,2000-01-03,2013-07-08,0,0,2021-06-30,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+SAF,False,2193,2000-01-03,2008-09-22,0,0,,,False,missing price symbol,historical security identity unresolved
+SANM,True,1765,2000-06-21,2007-06-29,1765,1765,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+SAPE,True,504,2000-05-05,2002-05-10,504,504,2000-01-03,2015-02-05,False,used,historical security identity unresolved
+SB,True,0,,,0,0,2008-05-30,2024-12-31,False,no dated membership match,historical security identity unresolved
+SBAC,True,1844,2017-09-01,2024-12-31,1844,1844,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+SBL,False,1526,2000-12-11,2007-01-09,0,0,,,False,missing price symbol,historical security identity unresolved
+SBNY,True,309,2021-12-20,2023-03-14,0,0,2024-08-15,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+SBUX,True,6180,2000-06-08,2024-12-31,6180,6180,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+SCG,True,2516,2009-01-02,2018-12-31,2323,2263,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+SCHW,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+SCI,True,51,2000-01-03,2000-03-15,51,0,2000-01-03,2024-12-31,False,no complete valid window,historical security identity unresolved
+SDS,False,772,2002-07-22,2005-08-11,0,0,,,False,missing price symbol,historical security identity unresolved
+SE,True,2555,2007-01-03,2017-02-24,0,0,2017-10-20,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+SEBL,False,1442,2000-05-05,2006-01-31,0,0,,,False,missing price symbol,historical security identity unresolved
+SEDG,True,501,2021-12-20,2023-12-15,501,501,2015-03-26,2024-12-31,False,used,historical security identity unresolved
+SEE,True,6028,2000-01-03,2023-12-15,4586,4466,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+SEG,True,226,2000-01-03,2000-11-21,0,0,2024-07-30,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+SFA,False,1545,2000-01-03,2006-02-24,0,0,,,False,missing price symbol,historical security identity unresolved
+SGID,False,118,2000-01-03,2000-06-20,0,0,,,False,missing price symbol,historical security identity unresolved
+SGP,False,2475,2000-01-03,2009-11-03,0,0,,,False,missing price symbol,historical security identity unresolved
+SHLD,True,1876,2005-03-28,2012-09-04,1876,1876,2003-05-01,2018-03-27,False,used,historical security identity unresolved
+SHW,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+SIAL,True,3995,2000-01-03,2015-11-17,3995,3935,2000-01-03,2015-11-18,False,used,historical security identity unresolved
+SIG,True,664,2015-07-29,2018-03-16,664,664,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+SII,True,983,2006-10-02,2010-08-26,131,71,2010-02-22,2024-12-31,False,used,historical security identity unresolved
+SIVB,True,1256,2018-03-19,2023-03-14,7,7,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+SJM,True,4064,2008-11-06,2024-12-31,4064,4064,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+SLB,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+SLG,True,1510,2015-03-23,2021-03-19,1510,1510,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+SLM,True,3603,2000-01-03,2014-04-30,3603,3543,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+SLR,False,1947,2000-01-03,2007-10-01,0,0,,,False,missing price symbol,historical security identity unresolved
+SMCI,True,200,2024-03-18,2024-12-31,200,200,2007-03-29,2024-12-31,True,used,historical security identity unresolved
+SMI,False,239,2000-01-03,2000-12-11,0,0,,,False,missing price symbol,historical security identity unresolved
+SMS,False,109,2000-01-03,2000-06-07,0,0,,,False,missing price symbol,historical security identity unresolved
+SNA,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+SNDK,True,2533,2006-04-20,2016-05-11,2533,2533,2000-01-03,2016-05-11,False,used,historical security identity unresolved
+SNI,True,2437,2008-07-01,2018-03-06,2436,2329,2008-06-12,2018-03-06,False,used,historical security identity unresolved
+SNPS,True,1962,2017-03-16,2024-12-31,1962,1962,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+SNT,True,0,,,0,0,2000-01-03,2024-12-31,False,no dated membership match,historical security identity unresolved
+SNV,True,2010,2000-01-03,2007-12-31,2010,1950,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+SO,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+SOLV,True,191,2024-04-01,2024-12-31,191,134,2024-03-26,2024-12-31,True,used,historical security identity unresolved
+SOTR,False,1213,2000-01-03,2004-10-29,0,0,,,False,missing price symbol,historical security identity unresolved
+SOV,False,1154,2004-07-01,2009-01-29,0,0,,,False,missing price symbol,historical security identity unresolved
+SPG,True,5668,2002-06-26,2024-12-31,5668,5668,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+SPGI,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+SPLS,True,4452,2000-01-03,2017-09-12,4452,4392,2000-01-03,2017-09-12,False,used,historical security identity unresolved
+SRCL,True,2526,2008-11-19,2018-11-30,2352,2292,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+SRE,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+SSP,True,635,2005-12-20,2008-06-30,635,635,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+STE,True,1264,2019-12-23,2024-12-31,1264,1264,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+STI,True,5015,2000-01-03,2019-12-06,0,0,2022-05-02,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+STJ,True,4279,2000-01-03,2017-01-04,4279,4219,2000-01-03,2017-01-04,False,used,historical security identity unresolved
+STLD,True,508,2022-12-22,2024-12-31,508,508,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+STR,True,900,2006-12-01,2010-06-30,900,900,2000-01-03,2016-09-16,False,used,historical security identity unresolved
+STT,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+STX,True,3145,2012-07-02,2024-12-31,3145,3145,2002-12-11,2024-12-31,True,used,historical security identity unresolved
+STZ,True,4907,2005-07-05,2024-12-31,4907,4907,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+SUB,False,292,2000-01-03,2001-02-28,0,0,,,False,missing price symbol,historical security identity unresolved
+SUN,True,3211,2000-01-03,2012-10-04,11,0,2012-09-20,2024-12-31,False,no complete valid window,historical security identity unresolved
+SUNEQ,False,1149,2007-05-31,2011-12-16,0,0,,,False,missing price symbol,historical security identity unresolved
+SVU,True,3101,2000-01-03,2012-04-30,3101,3041,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+SW,True,124,2024-07-08,2024-12-31,124,124,2008-06-17,2024-12-31,True,used,historical security identity unresolved
+SWK,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+SWKS,True,2469,2015-03-12,2024-12-31,2469,2469,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+SWN,True,2222,2008-06-06,2017-04-03,2222,2222,2000-01-03,2018-03-07,False,used,historical security identity unresolved
+SWY,True,3789,2000-01-03,2015-01-26,3789,3729,2000-01-03,2015-01-29,False,used,historical security identity unresolved
+SXCL,False,343,2000-01-03,2001-05-11,0,0,,,False,missing price symbol,historical security identity unresolved
+SYF,True,2294,2015-11-18,2024-12-31,2294,2294,2014-07-31,2024-12-31,True,used,historical security identity unresolved
+SYK,True,6050,2000-12-12,2024-12-31,6050,6050,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+SYMC,True,4180,2003-03-31,2019-11-04,3774,3714,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+SYY,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+T,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+TAP,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+TDC,True,2446,2007-10-01,2017-06-16,2446,2386,2007-10-01,2024-12-31,False,used,historical security identity unresolved
+TDG,True,2159,2016-06-03,2024-12-31,2159,2159,2006-03-15,2024-12-31,True,used,historical security identity unresolved
+TDY,True,1140,2020-06-22,2024-12-31,1140,1140,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+TE,True,3707,2001-10-10,2016-06-30,0,0,2020-01-10,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+TECH,True,840,2021-08-30,2024-12-31,840,840,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+TEG,True,2103,2007-02-22,2015-06-29,2103,2103,2000-01-03,2015-06-29,False,used,historical security identity unresolved
+TEK,False,1980,2000-01-03,2007-11-15,0,0,,,False,missing price symbol,historical security identity unresolved
+TEL,True,3824,2007-07-02,2024-12-31,3824,3776,2007-06-14,2024-12-31,True,used,historical security identity unresolved
+TEN,True,0,,,0,0,2002-03-05,2024-12-31,False,no dated membership match,historical security identity unresolved
+TER,True,4592,2000-01-03,2024-12-31,4592,4532,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+TEX,True,473,2006-12-20,2008-11-05,473,473,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+TFC,True,1274,2019-12-09,2024-12-31,1274,1274,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+TFX,True,1498,2019-01-18,2024-12-31,1498,1498,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+TGNA,True,4381,2000-01-03,2017-06-01,4381,4321,2000-01-03,2018-03-07,False,used,historical security identity unresolved
+TGT,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+THC,True,4097,2000-01-03,2016-04-15,4097,4037,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+TIE,False,1298,2007-10-29,2012-12-21,0,0,,,False,missing price symbol,historical security identity unresolved
+TIF,True,5169,2000-06-21,2021-01-06,4468,4408,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+TIN,False,2009,2000-01-03,2007-12-28,0,0,,,False,missing price symbol,historical security identity unresolved
+TJX,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+TKO,True,0,,,0,0,2000-01-03,2024-12-31,False,no dated membership match,historical security identity unresolved
+TKR,True,402,2000-01-03,2001-08-06,402,342,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+TLAB,False,3012,2000-01-03,2011-12-20,0,0,,,False,missing price symbol,historical security identity unresolved
+TMC,True,112,2000-01-03,2000-06-12,0,0,2021-09-10,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+TMC-A,False,112,2000-01-03,2000-06-12,0,0,,,False,missing price symbol,historical security identity unresolved
+TMK,True,4930,2000-01-03,2019-08-07,4586,4466,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+TMO,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+TMUS,True,2342,2009-06-30,2024-12-31,2342,2342,2007-04-19,2024-12-31,True,used,historical security identity unresolved
+TNB,False,1150,2000-01-03,2004-08-02,0,0,,,False,missing price symbol,historical security identity unresolved
+TOS,False,426,2000-01-03,2001-09-10,0,0,,,False,missing price symbol,historical security identity unresolved
+TOY,False,1395,2000-01-03,2005-07-21,0,0,,,False,missing price symbol,historical security identity unresolved
+TPL,True,24,2024-11-26,2024-12-31,24,24,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+TPR,True,5118,2004-09-01,2024-12-31,5118,5118,2000-10-06,2024-12-31,True,used,historical security identity unresolved
+TRB,False,2004,2000-01-03,2007-12-20,0,0,,,False,missing price symbol,historical security identity unresolved
+TRGP,True,558,2022-10-12,2024-12-31,558,558,2010-12-07,2024-12-31,True,used,historical security identity unresolved
+TRIP,True,2013,2011-12-21,2019-12-20,2013,1963,2011-12-07,2024-12-31,False,used,historical security identity unresolved
+TRMB,True,993,2021-01-21,2024-12-31,993,993,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+TROW,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+TRV,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+TRW,True,739,2000-01-03,2002-12-11,0,0,2004-02-03,2015-05-15,False,no valid prices during membership,historical security identity unresolved
+TSCO,True,2753,2014-01-24,2024-12-31,2753,2753,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+TSG,False,1769,2000-03-16,2007-03-30,0,0,,,False,missing price symbol,historical security identity unresolved
+TSLA,True,1013,2020-12-21,2024-12-31,1013,1013,2010-06-29,2024-12-31,True,used,historical security identity unresolved
+TSN,True,4880,2005-08-11,2024-12-31,4880,4880,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+TSS,True,2951,2008-01-02,2019-09-20,2576,2516,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+TT,True,2745,2002-05-13,2024-12-31,2745,2745,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+TTD,True,0,,,0,0,2016-09-21,2024-12-31,False,no dated membership match,historical security identity unresolved
+TTWO,True,1709,2018-03-19,2024-12-31,1709,1709,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+TUP,True,1061,2000-01-03,2004-03-24,1061,1001,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+TWC,True,1797,2009-03-30,2016-05-17,1797,1797,2007-01-10,2016-05-17,False,used,historical security identity unresolved
+TWTR,True,1109,2018-06-07,2022-10-31,0,0,2013-11-07,2018-03-27,False,no valid prices during membership,historical security identity unresolved
+TWX,True,4642,2000-01-03,2018-06-14,4586,4466,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+TX,True,443,2000-01-03,2001-10-09,0,0,2006-02-01,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+TXN,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+TXT,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+TXU,False,1953,2000-01-03,2007-10-09,0,0,,,False,missing price symbol,historical security identity unresolved
+TYL,True,1140,2020-06-22,2024-12-31,1140,1140,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+UA,True,1561,2016-04-08,2022-06-17,1561,1512,2016-03-23,2024-12-31,False,used,historical security identity unresolved
+UAA,True,2049,2014-05-01,2022-06-17,2049,2049,2005-11-18,2024-12-31,False,used,historical security identity unresolved
+UAL,True,2347,2015-09-03,2024-12-31,2347,2347,2006-02-06,2024-12-31,True,used,historical security identity unresolved
+UAWGQ,False,592,2000-01-03,2002-05-14,0,0,,,False,missing price symbol,historical security identity unresolved
+UBER,True,261,2023-12-18,2024-12-31,261,261,2019-05-10,2024-12-31,True,used,historical security identity unresolved
+UCL,True,1409,2000-01-03,2005-08-10,0,0,2020-06-10,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+UCM,False,204,2000-01-03,2000-10-20,0,0,,,False,missing price symbol,historical security identity unresolved
+UDR,True,2221,2016-03-07,2024-12-31,2221,2221,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+UHS,True,2587,2014-09-22,2024-12-31,2587,2587,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+UIS,True,2228,2000-01-03,2008-11-10,2228,2168,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+UK,True,277,2000-01-03,2001-02-06,0,0,2019-11-07,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+ULTA,True,2192,2016-04-18,2024-12-31,2192,2192,2007-10-25,2024-12-31,True,used,historical security identity unresolved
+UMG,False,114,2000-01-03,2000-06-14,0,0,,,False,missing price symbol,historical security identity unresolved
+UN,False,638,2000-01-03,2002-07-19,0,0,,,False,missing price symbol,historical security identity unresolved
+UNH,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+UNM,True,5463,2000-01-03,2021-09-17,5463,5403,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+UNP,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+UPC,True,1128,2000-01-03,2004-06-30,0,0,2021-03-23,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+UPR,False,135,2000-01-03,2000-07-14,0,0,,,False,missing price symbol,historical security identity unresolved
+UPS,True,5651,2002-07-22,2024-12-31,5651,5651,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+URBN,True,1790,2010-02-08,2017-03-17,1790,1790,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+URI,True,2587,2014-09-22,2024-12-31,2587,2587,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+USB,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+USBC,True,0,,,0,0,2006-04-18,2024-12-31,False,no dated membership match,historical security identity unresolved
+UST,False,2265,2000-01-03,2009-01-05,0,0,,,False,missing price symbol,historical security identity unresolved
+USW,False,126,2000-01-03,2000-06-30,0,0,,,False,missing price symbol,historical security identity unresolved
+UTX,True,5095,2000-01-03,2020-04-02,4586,4466,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+UVN,False,1541,2001-02-07,2007-03-28,0,0,,,False,missing price symbol,historical security identity unresolved
+V,True,3782,2009-12-21,2024-12-31,3782,3782,2008-03-19,2024-12-31,True,used,historical security identity unresolved
+VAR,True,3571,2007-02-12,2021-04-19,2800,2740,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+VEEV,True,0,,,0,0,2013-10-16,2024-12-31,False,no dated membership match,historical security identity unresolved
+VFC,True,6098,2000-01-03,2024-03-28,6098,6038,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+VIAB,True,3505,2006-01-03,2019-12-04,3078,2977,2005-12-05,2018-03-27,False,used,historical security identity unresolved
+VIAC,False,555,2019-12-05,2022-02-16,0,0,,,False,missing price symbol,historical security identity unresolved
+VIAV,True,3372,2000-07-27,2013-12-20,3372,3372,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+VICI,True,645,2022-06-08,2024-12-31,645,645,2018-01-02,2024-12-31,True,used,historical security identity unresolved
+VLO,True,5204,2004-04-29,2024-12-31,5204,5204,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+VLTO,True,315,2023-10-02,2024-12-31,313,253,2023-10-04,2024-12-31,True,used,historical security identity unresolved
+VMC,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+VMRK,True,0,,,0,0,2000-01-03,2024-12-31,False,no dated membership match,historical security identity unresolved
+VNO,True,4378,2005-08-12,2023-01-03,4378,4378,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+VNT,True,110,2020-10-12,2021-03-19,110,62,2020-09-24,2024-12-31,False,used,historical security identity unresolved
+VO,False,238,2000-01-03,2000-12-08,0,0,,,False,missing price symbol,historical security identity unresolved
+VRSK,True,2323,2015-10-08,2024-12-31,2323,2323,2009-10-07,2024-12-31,True,used,historical security identity unresolved
+VRSN,True,4761,2006-02-01,2024-12-31,4761,4761,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+VRT,True,0,,,0,0,2018-08-02,2024-12-31,False,no dated membership match,historical security identity unresolved
+VRTS,True,1319,2000-04-03,2005-07-01,0,0,2009-01-02,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+VRTX,True,2838,2013-09-23,2024-12-31,2838,2838,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+VST,True,164,2024-05-08,2024-12-31,164,164,2016-10-05,2024-12-31,True,used,historical security identity unresolved
+VSTNQ,False,1384,2000-06-29,2005-12-30,0,0,,,False,missing price symbol,historical security identity unresolved
+VTR,True,3985,2009-03-04,2024-12-31,3985,3985,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+VTRS,True,1036,2020-11-17,2024-12-31,1036,1036,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+VTSS,True,421,2000-12-12,2002-08-20,421,421,2000-01-03,2015-04-27,False,used,historical security identity unresolved
+VZ,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+WAB,True,1472,2019-02-27,2024-12-31,1472,1472,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+WAMUQ,False,2198,2000-01-03,2008-09-29,0,0,,,False,missing price symbol,historical security identity unresolved
+WAT,True,5789,2002-01-02,2024-12-31,5789,5789,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+WB,True,2263,2000-01-03,2008-12-31,0,0,2014-04-17,2024-12-31,False,no valid prices during membership,historical security identity unresolved
+WBA,True,6289,2000-01-03,2024-12-31,4586,4466,2000-01-03,2018-03-27,True,used,historical security identity unresolved
+WBD,True,685,2022-04-11,2024-12-31,685,685,2005-07-08,2024-12-31,True,used,historical security identity unresolved
+WCG,True,342,2018-09-17,2020-01-27,0,0,2004-07-01,2018-03-27,False,no valid prices during membership,historical security identity unresolved
+WCOEQ,False,592,2000-01-03,2002-05-14,0,0,,,False,missing price symbol,historical security identity unresolved
+WDAY,True,6,2024-12-23,2024-12-31,6,6,2012-10-12,2024-12-31,True,used,historical security identity unresolved
+WDC,True,3902,2009-07-01,2024-12-31,3902,3902,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+WEC,True,4068,2008-10-31,2024-12-31,4068,4068,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+WELL,True,4007,2009-01-30,2024-12-31,4007,4007,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+WEN,True,2198,2000-01-03,2008-09-29,2198,2138,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+WFC,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+WFM,True,2933,2006-01-03,2017-08-25,2933,2933,2000-01-03,2017-08-28,False,used,historical security identity unresolved
+WFT,False,905,2005-07-22,2009-02-25,0,0,,,False,missing price symbol,historical security identity unresolved
+WHR,True,6089,2000-01-03,2024-03-15,6089,6029,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+WIN,True,2194,2006-07-18,2015-04-06,2194,2194,2005-02-09,2018-03-07,False,used,historical security identity unresolved
+WLA,False,117,2000-01-03,2000-06-19,0,0,,,False,missing price symbol,historical security identity unresolved
+WLL,True,527,2000-01-03,2002-02-08,0,0,2003-11-20,2018-03-27,False,no valid prices during membership,historical security identity unresolved
+WLP,True,1234,2000-01-03,2004-11-30,0,0,2014-09-22,2014-12-02,False,no valid prices during membership,historical security identity unresolved
+WLTW,True,1515,2016-01-05,2022-01-07,560,440,2016-01-05,2018-03-27,False,used,historical security identity unresolved
+WM,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+WMB,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+WMT,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+WNDXQ,False,1236,2000-01-03,2004-12-02,0,0,,,False,missing price symbol,historical security identity unresolved
+WOR,True,1247,2000-01-03,2004-12-17,1247,1187,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+WPX,True,557,2012-01-03,2014-03-21,557,511,2011-12-12,2018-03-27,False,used,historical security identity unresolved
+WRB,True,1276,2019-12-05,2024-12-31,1276,1276,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+WRK,True,2267,2015-07-02,2024-07-05,688,574,2015-06-24,2018-03-27,False,used,historical security identity unresolved
+WSM,True,0,,,0,0,2000-01-03,2024-12-31,False,no dated membership match,historical security identity unresolved
+WST,True,1160,2020-05-22,2024-12-31,1160,1160,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+WTW,True,748,2022-01-10,2024-12-31,748,748,2001-06-12,2024-12-31,True,used,historical security identity unresolved
+WU,True,3831,2006-10-02,2021-12-17,3831,3771,2006-10-02,2024-12-31,False,used,historical security identity unresolved
+WWY,False,2203,2000-01-03,2008-10-06,0,0,,,False,missing price symbol,historical security identity unresolved
+WY,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+WYE,False,2462,2000-01-03,2009-10-15,0,0,,,False,missing price symbol,historical security identity unresolved
+WYND,False,2978,2006-08-01,2018-05-30,0,0,,,False,missing price symbol,historical security identity unresolved
+WYNN,True,4058,2008-11-14,2024-12-31,4058,4058,2002-10-25,2024-12-31,True,used,historical security identity unresolved
+X,True,3646,2000-01-03,2014-07-01,3646,3586,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+XEC,True,1434,2014-06-20,2020-03-02,948,888,2002-09-25,2018-03-27,False,used,historical security identity unresolved
+XEL,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+XL,True,4282,2001-09-04,2018-09-11,4165,4105,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+XLNX,True,5566,2000-01-03,2022-02-14,4586,4466,2000-01-03,2018-03-27,False,used,historical security identity unresolved
+XOM,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+XRAY,True,3868,2008-11-14,2024-04-01,3868,3868,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+XRX,True,5337,2000-01-03,2021-03-19,5337,5277,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+XTO,False,1383,2004-12-29,2010-06-25,0,0,,,False,missing price symbol,historical security identity unresolved
+XYL,True,3312,2011-11-01,2024-12-31,3312,3265,2011-10-13,2024-12-31,True,used,historical security identity unresolved
+XYZ,True,0,,,0,0,2015-11-19,2024-12-31,False,no dated membership match,historical security identity unresolved
+YNR,False,187,2000-01-06,2000-10-02,0,0,,,False,missing price symbol,historical security identity unresolved
+YUM,True,6289,2000-01-03,2024-12-31,6289,6229,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ZBH,True,5887,2001-08-07,2024-12-31,5887,5836,2001-07-25,2024-12-31,True,used,historical security identity unresolved
+ZBRA,True,1264,2019-12-23,2024-12-31,1264,1264,2000-01-03,2024-12-31,True,used,historical security identity unresolved
+ZION,True,5717,2001-06-25,2024-03-15,5717,5717,2000-01-03,2024-12-31,False,used,historical security identity unresolved
+ZTS,True,2901,2013-06-24,2024-12-31,2901,2901,2013-02-01,2024-12-31,True,used,historical security identity unresolved

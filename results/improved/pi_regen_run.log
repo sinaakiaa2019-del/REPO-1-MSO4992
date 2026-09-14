@@ -1,0 +1,48 @@
+Real input contracts passed 3658880 rows 703 symbols
+{
+  "rows": 3658880,
+  "symbols": 703,
+  "invalid_nonpositive_prices": 2132,
+  "extreme_returns_flagged": 720,
+  "duplicates": 0,
+  "raw_matches_previous_panel": true,
+  "spy_sessions": 6289,
+  "original_price_dates": 6289,
+  "price_dates_not_SPY_sessions": [],
+  "permanent_security_ids": "unresolved",
+  "historical_sector_classifications": "unavailable",
+  "extreme_returns_while_index_member": 104
+}
+Daily windows 250 elapsed 5
+Daily windows 500 elapsed 7
+Daily windows 750 elapsed 9
+Daily windows 1000 elapsed 12
+Daily windows 1250 elapsed 14
+Daily windows 1500 elapsed 17
+Daily windows 1750 elapsed 20
+Daily windows 2000 elapsed 23
+Daily windows 2250 elapsed 26
+Daily windows 2500 elapsed 30
+Daily windows 2750 elapsed 33
+Daily windows 3000 elapsed 37
+Daily windows 3250 elapsed 41
+Daily windows 3500 elapsed 45
+Daily windows 3750 elapsed 50
+Daily windows 4000 elapsed 54
+Daily windows 4250 elapsed 60
+Daily windows 4500 elapsed 66
+Daily windows 4750 elapsed 72
+Daily windows 5000 elapsed 79
+Daily windows 5250 elapsed 86
+Daily windows 5500 elapsed 93
+Daily windows 5750 elapsed 100
+Daily windows 6000 elapsed 109
+W2 windows 0
+W2 windows 1000
+W2 windows 2000
+W2 windows 3000
+W2 windows 4000
+W2 windows 5000
+W2 windows 6000
+TOPOLOGY COMPLETE 6229
+exit 0

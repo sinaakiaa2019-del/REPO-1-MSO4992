@@ -1,0 +1,130 @@
+{
+  "python": "3.13.14",
+  "packages": {
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scipy": "1.16.3",
+    "scikit-learn": "1.8.0",
+    "xgboost": "3.3.0",
+    "ripser": "0.6.15"
+  },
+  "evidence": "retrospective real-data evaluation",
+  "raw_equity_csv_included": true,
+  "stages": [
+    {
+      "stage": "data",
+      "exit_code": 0,
+      "seconds": 9.64
+    },
+    {
+      "stage": "math",
+      "exit_code": 0,
+      "seconds": 3.13
+    },
+    {
+      "stage": "tda",
+      "exit_code": 0,
+      "seconds": 140.06
+    },
+    {
+      "stage": "coverage",
+      "exit_code": 0,
+      "seconds": 7.18
+    },
+    {
+      "stage": "ml",
+      "exit_code": 0,
+      "seconds": 61.71
+    },
+    {
+      "stage": "sensitivity",
+      "exit_code": 0,
+      "seconds": 5.5
+    },
+    {
+      "stage": "transfer",
+      "exit_code": 0,
+      "seconds": 14.11
+    },
+    {
+      "stage": "sectors",
+      "exit_code": 0,
+      "seconds": 43.98
+    },
+    {
+      "stage": "defence",
+      "exit_code": 0,
+      "seconds": 54.72
+    },
+    {
+      "stage": "report",
+      "exit_code": 0,
+      "seconds": 8.04
+    },
+    {
+      "stage": "checks",
+      "exit_code": 0,
+      "seconds": 2.88
+    },
+    {
+      "stage": "publish",
+      "exit_code": 0,
+      "seconds": 7.22
+    },
+    {
+      "stage": "improvements",
+      "exit_code": 0,
+      "seconds": 2075.26
+    },
+    {
+      "stage": "figures",
+      "exit_code": 0,
+      "seconds": 7.54
+    }
+  ],
+  "files": {
+    "config.py": "e8354feb3c9d4c628fcfc434d9c2e11f330d305bc3a6f7b9929fe34e503fe13f",
+    "feature_visualiser.py": "cc0b419e1be5aa525206831d8b84be7d25cf177263b35d94d60d391244fe203b",
+    "report_builder.py": "33b30b220216b9e6f6db2efc41a501b74d55d6e25a86ed00f1e8ed116d65dc18",
+    "run_all.py": "c45ab318ebaa90c051d758d48ec8d13f1cffad0a4eef2b4dc2689ec9211471a1",
+    "run_pipeline.py": "c615a58e4a22a9ca9a69cca7a2652cb452a1bb0602b83991cf04b8b7b466d48f",
+    "streamlit_app.py": "d1b850f4d1706fcab4d4967dd75f578eb444ed3ecc93b38241e48c6cefc2b3b6",
+    "tests/test_math.py": "0c29317e444988ce86542e16f719ff3f5324553c251fd7567a93a2dcd388e644",
+    "tests/test_run.py": "4200f01c2930fead97c3b85bc1b869fc01604c896ae2c6cd6533d66233e1ff77",
+    "tests/test_saved.py": "9d5739c00f932574a4edab02fef6e086e3e47e9fc2fe442b9bc45fc893d434f3",
+    "METHODOLOGY.md": "ade5bd057b17a91b6142d808800353473a536ace13a7f8e1955aff53d91612c5",
+    "README.md": "72c3870ef740c6c7fc0547aff5a7a2050ae93a856ac858275d108485554c98a4",
+    "config.json": "9e7cbd14974d262605e45e87e812ab80ae425ae8717cd7d497be0da283b8dd45",
+    "requirements.txt": "7fd3ffa5b188f7cd02b81da977767b161604a2cdfc29240bc3c65d4eb6b69004",
+    "inputs/corporate_actions.csv": "9b0e58b177ca3900a86b93eaa1dcf752dbed430d0f196066db716bf935061183",
+    "inputs/markets.csv": "99b8453559210591e6999b35ff2ea1a821180fb4a1cb52d768646d8afb608e97",
+    "inputs/membership.csv": "36326709d46d6cd25834de5df457b16f5f96fad3a06b9beac28f7b88aa0b0d54",
+    "inputs/public_download_audit.csv": "9b5688353da1b62a963127ddee900e9e385f5486074a02b0271318538f44263f",
+    "inputs/public_prices.csv": "6feee1fe3a273315464110185c58834cc564d0285fe5a43a426246836d0ea891",
+    "inputs/public_prices_expanded.csv": "799f6309e35db6cea5b19686f9a339310de259d9bc16a6bf0aa374f1dd622c2b",
+    "inputs/sector_etfs.csv": "c095f7450e0ee4f8cd0cda4fe20911c5c6da2468c87ed814e26f47947424150e",
+    "inputs/source_manifest.json": "55b38b85ac3a866988814db3113261c5e061851549aea27ee49b73c4610a7eef",
+    "inputs/vix.csv": "5f6a4197e929ee7a1eb999db2938c7f6049114c9fd29eb5d80e356dabe43d658",
+    "inputs/wiki_recovered_prices.csv": "f03db8dfaecfa9e3c83ec2c92cb1e93020eb43af81159ad5f5e72bdc78b44d96",
+    "inputs/wiki_recovery_audit.csv": "d93ec4f2c6f8addc40d07b96e8472d6e92e86931b9176b81deb04849b69750f6",
+    "inputs/yield_curve.csv": "d4d5d429d5a6c833e72b7ba6c103bcba4120f9a0fed20966021ffc8e0f0811af",
+    "results/asset_coverage.csv": "9664c8a00f00c68f8055e6d2a583812b581c490d5d4f10145d8b260da31946b0",
+    "results/defence_comparisons.csv": "7b45592a7788b4b7bd81259d889aeb5f1f890278979bda06ae821be5e43d6ea1",
+    "results/defence_event_summary.csv": "15f47feb7865a2c1732c7713619fda1a7f0ae86f7007ca11b652f1db6c9d4f7f",
+    "results/defence_metrics.csv": "af32e9b3c4cdff016d2cdd18ed86e93ccd7fec774810f5b38b1273498945c136",
+    "results/DEFENCE_REPORT.md": "810398366b87182e7e18d41d42f0471703052acb77ee6c2999c3c3be7b29a78a",
+    "results/defence_scale_choices.csv": "f93d61016e731dd8c380877dc192f88cb723f959235ff6f7fc40a363505a1fdf",
+    "results/defence_transfer_metrics.csv": "378fb6e643488198cd3a833a7bef02f323b096357c7214bcb40620340ec53ad5",
+    "results/evidence.sqlite": "454310183b1f7a93686c7830daf45cab757fdeb8262a9ac7ce2673e7cc8b0e65",
+    "results/models.pkl": "b919ecc1eec657be3767d3fc209055bb7cb8f8b0336505e7d280ad3b0df39634",
+    "results/model_comparison.svg": "b7146bb2e096d93d1d9d5d47addf808e940625635044bf9714e26fcf97eb9049",
+    "results/model_comparisons.csv": "14e6c12b1bff9de5d5a763ea312c2462bf9f635146024d0b07e4be1b141c19ec",
+    "results/model_results.csv": "c0aa2213d19f138f68d845e53eaa492aa800f5065e1fe482479ede1be6f0b77b",
+    "results/release_comparison.csv": "4f9c812e24e94ef19b4ddc953f0ff1f7a85041827427d70aa0123eb79a5d71e9",
+    "results/REPORT.md": "9e48a480dd06367190b43bc53ca08759c7c31ace7ba5491291944dd462d597b3",
+    "results/rq5_comparisons.csv": "032ffcabb2ff6dc15554c5514670b27f384493b40c607e2532a22a5f8f98c9e2",
+    "results/rq5_event_summary.csv": "c2d80a111d02c411b3f2c94305b81b5750c131e814bcbfd7e3bff94e440c4428",
+    "results/rq5_metrics.csv": "b72dc3ffb3fa83320fad288b9c098924605ff8bebfad4cea808d45f87e7f1d56",
+    "results/verification.json": "4f3cac985637c9d7e77bf81603970ab756cc3e8b6bfa13d65f153f0eaedd9038"
+  }
+}

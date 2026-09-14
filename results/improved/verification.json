@@ -1,0 +1,39 @@
+{
+  "primary_label_identical_to_published": true,
+  "new_features_missing_on_shared_dates": 0,
+  "shared_test_dates_every_target_and_model": true,
+  "published_baseline_max_score_difference": 3.226585665316861e-14,
+  "paired_intervals_match_robustness_builder": true,
+  "calibration_budgets_asserted_by_evaluate_groups": true,
+  "classic_reproduction": {
+    "LR_base": {
+      "max_score_difference": 1.7208456881689926e-15,
+      "alarm_mismatches": 0
+    },
+    "LR_enhanced_base": {
+      "max_score_difference": 1.0274558981393511e-12,
+      "alarm_mismatches": 0
+    },
+    "LR_enhanced_combined": {
+      "max_score_difference": 8.504030812872543e-13,
+      "alarm_mismatches": 0
+    },
+    "XGB_enhanced_base": {
+      "max_score_difference": 9.974659986866641e-17,
+      "alarm_mismatches": 0
+    },
+    "XGB_enhanced_combined": {
+      "max_score_difference": 9.8879238130678e-17,
+      "alarm_mismatches": 0
+    }
+  },
+  "python": "3.13.14",
+  "packages": {
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scipy": "1.16.3",
+    "scikit-learn": "1.8.0",
+    "xgboost": "3.3.0"
+  },
+  "seconds": 127.8
+}

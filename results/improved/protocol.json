@@ -1,0 +1,185 @@
+{
+  "status": "Retrospective development declared in the declared improvement protocol before execution",
+  "groups": {
+    "market": [
+      "log_vix",
+      "vol20",
+      "drawdown_60",
+      "yield_curve"
+    ],
+    "market_correlation": [
+      "log_vix",
+      "vol20",
+      "drawdown_60",
+      "yield_curve",
+      "eigenvalue_ratio",
+      "average_correlation"
+    ],
+    "topology": [
+      "h1_entropy_normalized",
+      "h1_total_per_asset",
+      "w2_per_sqrt_asset"
+    ],
+    "combined": [
+      "log_vix",
+      "vol20",
+      "drawdown_60",
+      "yield_curve",
+      "h1_entropy_normalized",
+      "h1_total_per_asset",
+      "w2_per_sqrt_asset"
+    ],
+    "combined_correlation": [
+      "log_vix",
+      "vol20",
+      "drawdown_60",
+      "yield_curve",
+      "eigenvalue_ratio",
+      "average_correlation",
+      "h1_entropy_normalized",
+      "h1_total_per_asset",
+      "w2_per_sqrt_asset"
+    ],
+    "topology_z": [
+      "h1_entropy_normalized_z252",
+      "h1_total_per_asset_z252",
+      "w2_per_sqrt_asset_z252"
+    ],
+    "combined_z": [
+      "log_vix",
+      "vol20",
+      "drawdown_60",
+      "yield_curve",
+      "h1_entropy_normalized_z252",
+      "h1_total_per_asset_z252",
+      "w2_per_sqrt_asset_z252"
+    ],
+    "combined_z_correlation": [
+      "log_vix",
+      "vol20",
+      "drawdown_60",
+      "yield_curve",
+      "eigenvalue_ratio",
+      "average_correlation",
+      "h1_entropy_normalized_z252",
+      "h1_total_per_asset_z252",
+      "w2_per_sqrt_asset_z252"
+    ],
+    "topology_ews": [
+      "landscape_cv60",
+      "landscape_tau60"
+    ],
+    "combined_ews": [
+      "log_vix",
+      "vol20",
+      "drawdown_60",
+      "yield_curve",
+      "landscape_cv60",
+      "landscape_tau60"
+    ],
+    "combined_ews_correlation": [
+      "log_vix",
+      "vol20",
+      "drawdown_60",
+      "yield_curve",
+      "eigenvalue_ratio",
+      "average_correlation",
+      "landscape_cv60",
+      "landscape_tau60"
+    ]
+  },
+  "primary_family": [
+    [
+      "combined_z",
+      "market"
+    ],
+    [
+      "combined_ews",
+      "market"
+    ]
+  ],
+  "comparisons": [
+    [
+      "combined_z",
+      "market"
+    ],
+    [
+      "combined_ews",
+      "market"
+    ],
+    [
+      "combined",
+      "market"
+    ],
+    [
+      "combined_z_correlation",
+      "market_correlation"
+    ],
+    [
+      "combined_ews_correlation",
+      "market_correlation"
+    ],
+    [
+      "combined_correlation",
+      "market_correlation"
+    ],
+    [
+      "combined_z",
+      "VIX"
+    ],
+    [
+      "combined_ews",
+      "VIX"
+    ],
+    [
+      "combined",
+      "VIX"
+    ],
+    [
+      "market",
+      "VIX"
+    ],
+    [
+      "topology_z",
+      "topology"
+    ],
+    [
+      "topology_ews",
+      "topology"
+    ]
+  ],
+  "targets": {
+    "loss10": 0.1,
+    "loss075": 0.075,
+    "loss05": 0.05
+  },
+  "z_score": {
+    "window": 252,
+    "minimum": 126,
+    "excludes_current": true,
+    "clip": 10
+  },
+  "early_warning": {
+    "series": "landscape1_l1_per_asset",
+    "window": 60,
+    "statistics": [
+      "coefficient_of_variation",
+      "kendall_tau_trend"
+    ]
+  },
+  "classic_correction": {
+    "removed": [
+      "eligible_assets",
+      "eligible_fraction"
+    ]
+  },
+  "bootstrap": {
+    "blocks": [
+      20,
+      60,
+      120
+    ],
+    "draws": 500,
+    "seed": 42
+  }
+}

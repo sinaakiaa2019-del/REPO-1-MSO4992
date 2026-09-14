@@ -1,0 +1,20 @@
+25/421 processed, 54956 price rows so far
+50/421 processed, 105193 price rows so far
+75/421 processed, 144169 price rows so far
+100/421 processed, 174308 price rows so far
+125/421 processed, 235660 price rows so far
+150/421 processed, 287582 price rows so far
+175/421 processed, 335865 price rows so far
+200/421 processed, 388328 price rows so far
+225/421 processed, 444218 price rows so far
+250/421 processed, 498079 price rows so far
+275/421 processed, 537052 price rows so far
+300/421 processed, 585462 price rows so far
+325/421 processed, 628303 price rows so far
+350/421 processed, 673928 price rows so far
+375/421 processed, 726227 price rows so far
+400/421 processed, 766990 price rows so far
+
+DONE. 212/421 symbols recovered, 802124 total price rows.
+Wrote inputs/wiki_recovered_prices.csv and inputs/wiki_recovery_audit.csv
+exit 0

@@ -1,0 +1,30 @@
+Shared dates with persistence images: 6018 of 6229 PI rows, 
+Equal-budget evaluation 2007 5 groups
+Equal-budget evaluation 2008 5 groups
+Equal-budget evaluation 2009 5 groups
+Equal-budget evaluation 2010 5 groups
+Equal-budget evaluation 2011 5 groups
+Equal-budget evaluation 2012 5 groups
+Equal-budget evaluation 2013 5 groups
+Equal-budget evaluation 2014 5 groups
+Equal-budget evaluation 2015 5 groups
+Equal-budget evaluation 2016 5 groups
+Equal-budget evaluation 2017 5 groups
+Equal-budget evaluation 2018 5 groups
+Equal-budget evaluation 2019 5 groups
+Equal-budget evaluation 2020 5 groups
+Equal-budget evaluation 2021 5 groups
+Equal-budget evaluation 2022 5 groups
+Equal-budget evaluation 2023 5 groups
+Equal-budget evaluation 2024 5 groups
+C:\Users\octav\Downloads\TDA_Crash_Prediction_Defended\final\persistence_image_extension.py:96: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  primary_events = leads[leads.budget == 0.05][leads.model.isin(groups)]
+          model  budget    n  positives  prevalence    auroc  average_precision  false_positive_days  true_positive_days  false_negative_days  false_positive_rate   recall  precision  time_under_warning  alarm_episodes  false_alarm_episodes  within_year_auroc  within_year_ap  years_with_both_classes
+            VIX    0.05 4510        197    0.043681 0.743968           0.219842                  688                  79                  118             0.159518 0.401015   0.102999            0.170067              78                    73           0.595756        0.247093                        9
+       combined    0.05 4510        197    0.043681 0.753756           0.180461                  579                  70                  127             0.134245 0.355330   0.107858            0.143902              74                    67           0.593227        0.209535                        9
+         market    0.05 4510        197    0.043681 0.759211           0.178126                  667                  81                  116             0.154649 0.411168   0.108289            0.165854              53                    47           0.586048        0.208878                        9
+combined_pi_xgb    0.05 4510        197    0.043681 0.719618           0.104507                  590                  86                  111             0.136796 0.436548   0.127219            0.149889              89                    73           0.601434        0.201447                        9
+topology_pi_xgb    0.05 4510        197    0.043681 0.710071           0.088902                  304                  50                  147             0.070485 0.253807   0.141243            0.078492             105                    98           0.589682        0.200077                        9
+       topology    0.05 4510        197    0.043681 0.582456           0.051327                  544                  72                  125             0.126130 0.365482   0.116883            0.136585             146                   122           0.567986        0.181946                        9
+PERSISTENCE IMAGE EXTENSION COMPLETE
+exit 0

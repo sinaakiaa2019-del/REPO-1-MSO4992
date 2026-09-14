@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="688" viewBox="0 0 1000 688" role="img" aria-labelledby="title desc">
+<title id="title">Real-data model comparison</title>
+<desc id="desc">Average precision and AUROC for every model, ordered by average precision. Retrospective 2007–2024 evaluation.</desc>
+<rect width="1000" height="688" fill="#ffffff"/>
+<g font-family="Times New Roman,Times,serif" font-size="12" fill="#172b4d">
+<text x="24" y="30" font-size="20">Model comparison · retrospective real-data evaluation</text>
+<text x="300" y="60">Average precision (0–1)</text>
+<text x="650" y="60">AUROC</text>
+<text x="24" y="102">VIX</text>
+<rect x="300" y="85" width="65.95" height="23" fill="#157f82"/>
+<text x="372.95" y="102">0.220</text>
+<rect x="650" y="85" width="200.87" height="23" fill="#4865a3"/>
+<text x="857.87" y="102">0.744</text>
+<text x="24" y="144">LR_base</text>
+<rect x="300" y="127" width="61.48" height="23" fill="#157f82"/>
+<text x="368.48" y="144">0.205</text>
+<rect x="650" y="127" width="169.88" height="23" fill="#4865a3"/>
+<text x="826.88" y="144">0.629</text>
+<text x="24" y="186">LR_combined</text>
+<rect x="300" y="169" width="61.28" height="23" fill="#157f82"/>
+<text x="368.28" y="186">0.204</text>
+<rect x="650" y="169" width="163.35" height="23" fill="#4865a3"/>
+<text x="820.35" y="186">0.605</text>
+<text x="24" y="228">LR_dynamic_combined</text>
+<rect x="300" y="211" width="50.68" height="23" fill="#157f82"/>
+<text x="357.68" y="228">0.169</text>
+<rect x="650" y="211" width="159.51" height="23" fill="#4865a3"/>
+<text x="816.51" y="228">0.591</text>
+<text x="24" y="270">XGB_combined</text>
+<rect x="300" y="253" width="23.83" height="23" fill="#157f82"/>
+<text x="330.83" y="270">0.079</text>
+<rect x="650" y="253" width="185.46" height="23" fill="#4865a3"/>
+<text x="842.46" y="270">0.687</text>
+<text x="24" y="312">XGB_base</text>
+<rect x="300" y="295" width="23.37" height="23" fill="#157f82"/>
+<text x="330.37" y="312">0.078</text>
+<rect x="650" y="295" width="180.97" height="23" fill="#4865a3"/>
+<text x="837.97" y="312">0.670</text>
+<text x="24" y="354">XGB_enhanced_combined</text>
+<rect x="300" y="337" width="23.28" height="23" fill="#157f82"/>
+<text x="330.28" y="354">0.078</text>
+<rect x="650" y="337" width="184.68" height="23" fill="#4865a3"/>
+<text x="841.68" y="354">0.684</text>
+<text x="24" y="396">XGB_enhanced_base</text>
+<rect x="300" y="379" width="23.05" height="23" fill="#157f82"/>
+<text x="330.05" y="396">0.077</text>
+<rect x="650" y="379" width="176.26" height="23" fill="#4865a3"/>
+<text x="833.26" y="396">0.653</text>
+<text x="24" y="438">XGB_full_topology</text>
+<rect x="300" y="421" width="22.55" height="23" fill="#157f82"/>
+<text x="329.55" y="438">0.075</text>
+<rect x="650" y="421" width="188.03" height="23" fill="#4865a3"/>
+<text x="845.03" y="438">0.696</text>
+<text x="24" y="480">XGB_topology</text>
+<rect x="300" y="463" width="20.38" height="23" fill="#157f82"/>
+<text x="327.38" y="480">0.068</text>
+<rect x="650" y="463" width="182.02" height="23" fill="#4865a3"/>
+<text x="839.02" y="480">0.674</text>
+<text x="24" y="522">constant</text>
+<rect x="300" y="505" width="13.36" height="23" fill="#157f82"/>
+<text x="320.36" y="522">0.045</text>
+<rect x="650" y="505" width="114.71" height="23" fill="#4865a3"/>
+<text x="771.71" y="522">0.425</text>
+<text x="24" y="564">LR_topology</text>
+<rect x="300" y="547" width="12.85" height="23" fill="#157f82"/>
+<text x="319.85" y="564">0.043</text>
+<rect x="650" y="547" width="119.06" height="23" fill="#4865a3"/>
+<text x="776.06" y="564">0.441</text>
+<text x="24" y="606">LR_enhanced_combined</text>
+<rect x="300" y="589" width="11.25" height="23" fill="#157f82"/>
+<text x="318.25" y="606">0.038</text>
+<rect x="650" y="589" width="107.47" height="23" fill="#4865a3"/>
+<text x="764.47" y="606">0.398</text>
+<text x="24" y="648">LR_enhanced_base</text>
+<rect x="300" y="631" width="11.10" height="23" fill="#157f82"/>
+<text x="318.10" y="648">0.037</text>
+<rect x="650" y="631" width="104.44" height="23" fill="#4865a3"/>
+<text x="761.44" y="648">0.387</text>
+</g></svg>

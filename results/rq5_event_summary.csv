@@ -1,0 +1,28 @@
+symbol,sector_proxy,model,events,detected,median_lead_when_detected
+XLB,Materials,sector_combined,6,3,18.0
+XLB,Materials,sector_market,6,5,19.0
+XLB,Materials,sector_topology,6,3,5.0
+XLE,Energy,sector_combined,6,5,4.0
+XLE,Energy,sector_market,6,4,3.0
+XLE,Energy,sector_topology,6,2,20.0
+XLF,Financials,sector_combined,6,1,19.0
+XLF,Financials,sector_market,6,4,11.5
+XLF,Financials,sector_topology,6,0,
+XLI,Industrials,sector_combined,6,3,7.0
+XLI,Industrials,sector_market,6,4,11.0
+XLI,Industrials,sector_topology,6,3,16.0
+XLK,Technology,sector_combined,6,4,12.0
+XLK,Technology,sector_market,6,4,11.5
+XLK,Technology,sector_topology,6,3,20.0
+XLP,Consumer staples,sector_combined,6,3,14.0
+XLP,Consumer staples,sector_market,6,4,4.0
+XLP,Consumer staples,sector_topology,6,1,20.0
+XLU,Utilities,sector_combined,6,2,10.5
+XLU,Utilities,sector_market,6,3,5.0
+XLU,Utilities,sector_topology,6,3,18.0
+XLV,Health care,sector_combined,6,4,17.0
+XLV,Health care,sector_market,6,4,17.0
+XLV,Health care,sector_topology,6,1,18.0
+XLY,Consumer discretionary,sector_combined,6,5,18.0
+XLY,Consumer discretionary,sector_market,6,5,20.0
+XLY,Consumer discretionary,sector_topology,6,3,5.0
